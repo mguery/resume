@@ -1,5 +1,3 @@
-# Marjy Guery Resume
-
 **Certified AWS Cloud Practitioner and CompTIA Security+ with 10+ years of admin and customer support experience. Provided support to Fortune 500s, small businesses, and SaaS startups. Handled all customer-facing parts, including onboarding, customer service, billing, product training, and troubleshooting.** 
 
 As a Tech Implementation Consultant, I provide project support and help online service providers set up business software in a day so they can focus on what they do best.  
