@@ -36,8 +36,9 @@ Looking for a company that values diversity and inclusion, volunteering and comm
 - WordPress, HTML, CSS, PHP
 
 ### Basic knowledge
-- Linux commands and Bash scripting
-- Docker, Kubernetes
+- Linux commands
+- Bash scripting
+
 
 ## Projects
 - What I'm currently learning - [DevOps Notes](https://mguery.github.io/devops-notes/)
