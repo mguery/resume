@@ -38,10 +38,11 @@ Looking for a company that values diversity and inclusion, volunteering and comm
 ### Basic knowledge
 - Linux commands
 - Bash scripting
+- Terraform
 
 
 ## Projects
-- What I'm currently learning - [DevOps Notes](https://mguery.github.io/devops-notes/)
+- What I'm currently learning: Terraform. [See notes](https://github.com/mguery/terraform) // From [DevOps Notes](https://mguery.github.io/devops-notes/)
 - [Linux notes](https://github.com/mguery/linux) 
 - Tech-related blog posts - [Passing CompTIA Security+](https://msguery.net/passing-the-comptia-securityplus-exam), [Become AWS Certified in 2021](https://msguery.net/aws-certified)
 - Business tips and tutorials for online service providers - [YouTube](https://www.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg/videos), [Blog](https://msguery.net/blog)
