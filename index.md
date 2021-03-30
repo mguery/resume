@@ -8,7 +8,7 @@ Looking for a company that values diversity and inclusion, volunteering and comm
 
 ## Get in touch 
 - [Email Marjy](mailto:marjyguery+gh@gmail.com)
-- [View Full Work Experience on LinkedIn](https://www.linkedin.com/in/msguery)
+- [View Work History on LinkedIn](https://www.linkedin.com/in/msguery)
 - [GitHub Profile](https://github.com/mguery)
 - [Download Resume](https://msguery.net/resume-doc)
 
@@ -26,7 +26,7 @@ Looking for a company that values diversity and inclusion, volunteering and comm
 - Growth-Driven Design - Feb 2020
 - CompTIA Security+ - Nov 2019
 
-## Tools
+## Languages & Tools
 - Help Scout, Salesforce, HubSpot
 - Asana, Trello, Basecamp
 - HoneyBook, Dubsado
@@ -36,18 +36,15 @@ Looking for a company that values diversity and inclusion, volunteering and comm
 - WordPress, HTML, CSS, PHP
 
 ### Basic knowledge
-- Linux commands
-- Bash scripting
-- Terraform
+- Linux commands & Bash scripting [Linux cheat sheet + notes](https://github.com/mguery/linux)
+- Terraform [Terraform notes](https://github.com/mguery/terraform) 
 
 
 ## Projects
-- What I'm currently learning: Terraform. [See notes](https://github.com/mguery/terraform) // From [DevOps Notes](https://mguery.github.io/devops-notes/)
-- [Linux notes](https://github.com/mguery/linux) 
+- [DevOps Roadmap](https://mguery.github.io/devops-notes/)
 - Tech-related blog posts - [Passing CompTIA Security+](https://msguery.net/passing-the-comptia-securityplus-exam), [Become AWS Certified in 2021](https://msguery.net/aws-certified)
 - Business tips and tutorials for online service providers - [YouTube](https://www.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg/videos), [Blog](https://msguery.net/blog)
-- [Practice videos coming soon](https://youtube.com/playlist?list=PLppGQhQtHyJYqflcAsLakbCGxla-64s1W)
-- Older projects - [Web Dev Resources](https://mguery.github.io/web-dev), [WordPress starter theme](https://github.com/mguery/base-theme), [Bootstrap 4 to WordPress Resume theme](https://github.com/mguery/bs4-wp-resume)
+- Previous projects - [Web Dev Resources](https://mguery.github.io/web-dev), [WordPress starter theme](https://github.com/mguery/base-theme), [Bootstrap 4 to WordPress Resume theme](https://github.com/mguery/bs4-wp-resume)
 
 ## Volunteer Work
 - Registration Volunteer - WordCamp, 2017 - 2019
