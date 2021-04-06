@@ -4,7 +4,7 @@ As a Tech Implementation Consultant, I provide project support and help online s
 
 I'm interested in a Customer Support Engineer or Junior DevOps Engineer role. Based in South Atlanta, GA. Remote preferred, but also open to relocation. 
 
-Looking for a company that values diversity and inclusion, volunteering and community involvement with room to grow within the company. To see how I can add value to your team, take a look at my [Plum.io profile](https://secure.plum.io/p/hk14dNZ_esxZzpK9gEMvXg).
+To see how I can add value to your team, take a look at my [Plum.io profile](https://secure.plum.io/p/hk14dNZ_esxZzpK9gEMvXg).
 
 ## Get in touch 
 - [Email Marjy](mailto:marjyguery+gh@gmail.com) (Marjy Guery sounds like 'Margie Gary')
@@ -40,6 +40,7 @@ Looking for a company that values diversity and inclusion, volunteering and comm
 - Docker - [Docker notes](https://github.com/mguery/docker)
 - Currently learning: Python
 
+---
 
 ## Projects
 - View all hands-on projects in [GitHub](https://github.com/mguery)
@@ -53,3 +54,7 @@ Looking for a company that values diversity and inclusion, volunteering and comm
 - WordPress Consultant - 48in48, Jan - Oct 2019
 - Digital Marketing - Taproot Foundation, Aug 2018 - Jan 2019
 - Tech Tutor - Bloomfield Public Library, August - November 2017
+
+---
+
+Looking for a company that values diversity and inclusion, volunteering and community involvement with room to grow within the company. If that sounds like you, you can [send me an email](mailto:marjyguery+gh@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/msguery).
