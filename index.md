@@ -38,7 +38,6 @@ To see how I can add value to your team, take a look at my [Plum.io profile](htt
 - Linux commands & Bash scripting - [Linux notes](https://github.com/mguery/linux)
 - Terraform - [Terraform notes](https://github.com/mguery/terraform) 
 - Docker - [Docker notes](https://github.com/mguery/docker)
-- Currently learning: Python
 
 ---
 
