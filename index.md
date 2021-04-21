@@ -1,13 +1,15 @@
-**Certified AWS Cloud Practitioner and CompTIA Security+ with 10+ years of admin and customer support experience. Provided support to Fortune 500s, small businesses, and SaaS startups. Handled all customer-facing parts, including onboarding, customer service, billing, product training, and troubleshooting.** 
+**Certified AWS Cloud Practitioner and CompTIA Security+ with 10+ years of admin and customer support experience.** 
+
+Provided support to Fortune 500s, small businesses, and SaaS startups. Handled all customer-facing parts, including onboarding, customer service, billing, product training, and troubleshooting.
 
 As a Tech Implementation Consultant, I provide project support and help online service providers set up business software in a day so they can focus on what they do best.  
 
-I'm interested in a Customer Support Engineer or Junior DevOps Engineer role. Based in South Atlanta, GA. Remote preferred, but also open to relocation. 
+I'm interested in a Customer Support Engineer or Junior DevOps Engineer role. Based in South Atlanta, GA. Remote preferred. 
 
 To see how I can add value to your team, take a look at my [Plum.io profile](https://secure.plum.io/p/hk14dNZ_esxZzpK9gEMvXg).
 
 ## Get in touch 
-- [Email Marjy](mailto:marjyguery+gh@gmail.com) (Marjy Guery sounds like 'Margie Gary')
+- [Email Marjy Guery](mailto:marjyguery+gh@gmail.com) (sounds like 'Margie Gary')
 - [View Work History on LinkedIn](https://www.linkedin.com/in/msguery)
 - [Download Resume - Google Docs](https://msguery.net/resume-doc)
 
@@ -17,7 +19,7 @@ To see how I can add value to your team, take a look at my [Plum.io profile](htt
 - 1 year - Project management and coordination
 
 ## Certificates & Training
-- In progess: Cloud Native DevOps Bootcamp (Azure & AWS) [course](http://cloudskills.io/)
+- In progess: Cloud Architect Bootcamp [course](http://cloudskills.io/)
 - In progess: AWS Solutions Architect Associate, self-study
 - AWS Certified Cloud Practitioner - Feb 2021
 - Asana Certified Pro - Aug 2020
