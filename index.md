@@ -19,7 +19,6 @@ To see how I can add value to your team, take a look at my [Plum.io profile](htt
 - 1 year - Project management and coordination
 
 ## Certificates & Training
-- In progess: Cloud Architect Bootcamp [course](http://cloudskills.io/)
 - In progess: AWS Solutions Architect Associate, self-study
 - AWS Certified Cloud Practitioner - Feb 2021
 - Asana Certified Pro - Aug 2020
@@ -43,9 +42,10 @@ To see how I can add value to your team, take a look at my [Plum.io profile](htt
 
 ---
 
-## Projects
-- View all hands-on projects in [GitHub](https://github.com/mguery)
-- [DevOps Roadmap](https://mguery.github.io/devops-notes/)
+## Projects 
+- Created a [continuous delivery pipeline](https://github.com/mguery/aws-elastic-beanstalk-express-js-sample) with Elastic Beanstalk, Codebuild, CodePipeline
+- Launched and configured a [WordPress instance](https://github.com/mguery/resume/blob/gh-pages/lightsail-wordpress.png) with Amazon Lightsail 
+- Created a [DevOps Roadmap](https://mguery.github.io/devops-notes/) for newbies
 - Tech-related blog posts - [Passing CompTIA Security+](https://msguery.net/passing-the-comptia-securityplus-exam), [Become AWS Certified in 2021](https://msguery.net/aws-certified)
 - Business tips and tutorials for online service providers - [YouTube](https://www.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg/videos), [Blog](https://msguery.net/blog)
 - Previous projects - [Web Dev Resources](https://mguery.github.io/web-dev), [WordPress starter theme](https://github.com/mguery/base-theme), [Bootstrap 4 to WordPress Resume theme](https://github.com/mguery/bs4-wp-resume)
