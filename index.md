@@ -16,7 +16,7 @@ To see how I can add value to your team, take a look at my [Plum.io profile](htt
 ## Experience
 - 10 years - customer experience, customer support, account management 
 - 6 years - WordPress development and maintenance
-- 1 year - Project management and coordination
+- 1+ year(s) - Project management and coordination, technical writing, software documentation and training
 
 ## Certificates & Training
 - In progess: AWS Solutions Architect Associate, self-study
@@ -44,7 +44,8 @@ Linux commands & Bash scripting, Terraform, Docker
 - Created a [continuous delivery pipeline](https://github.com/mguery/aws-elastic-beanstalk-express-js-sample) with Elastic Beanstalk, Codebuild, CodePipeline
 - Created a [Lambda function, SQS queue, and Event trigger](https://github.com/mguery/terraform/tree/main/aws/dev-env) with Terraform
 - Launched and configured a [WordPress instance](https://github.com/mguery/resume/blob/gh-pages/lightsail-wordpress.png) with Amazon Lightsail 
-- Created a [DevOps Roadmap](https://mguery.github.io/devops-notes/) for newbies
+- Created a [DevOps Roadmap](https://mguery.github.io/devops-notes/) for aspiring engineers
+- Software documentation (CRM) - [HoneyBook video and post](https://msguery.net/honeybook-workflows), [Dubsado video and text tutorial](https://msguery.net/dubsado-walkthrough)
 
 ### Other Projects
 - Tech-related blog posts - [Passing CompTIA Security+](https://msguery.net/passing-the-comptia-securityplus-exam), [Become AWS Certified in 2021](https://msguery.net/aws-certified)
