@@ -6,7 +6,7 @@ I'm currently an Atlanta-based Tech Implementation Consultant. I provide project
 
 To see how I can add value to your team, take a look at my [Plum.io profile](https://secure.plum.io/p/hk14dNZ_esxZzpK9gEMvXg).
 
-[Tools](https://mguery.github.io/resume/#tools)
+[Tools](#tools)
 
 ## [Get in Touch](#contact)
 - [Email Marjy Guery](mailto:marjyguery+gh@gmail.com) (sounds like 'Margie Gary')
