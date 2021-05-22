@@ -32,7 +32,7 @@ To see how I can add value to your team, take a look at my [Plum.io profile](htt
 - Git, GitHub
 - SQL, Redash
 - WordPress, HTML, CSS, PHP
-- AWS - hands-on experience with IAM, Elastic Beanstalk, Codebuild, CodePipeline, Amazon Lightsail
+- AWS - hands-on experience with IAM, Elastic Beanstalk, CodeBuild, CodePipeline, Amazon Lightsail, CLoudFormation
 
 ### Basic Knowledge
 Linux commands & Bash scripting, Terraform, Docker
@@ -40,6 +40,7 @@ Linux commands & Bash scripting, Terraform, Docker
 ---
 
 ## [Projects]
+- Launched a VPC across 3 Availibility Zones via AWS Console and [CloudFormation](https://github.com/mguery/aws-projects#project-build-a-vpc-with-cloudformation)
 - Created a [continuous delivery pipeline](https://github.com/mguery/aws-elastic-beanstalk-express-js-sample) with Elastic Beanstalk, Codebuild, CodePipeline
 - Created a [Lambda function, SQS queue, and Event trigger](https://github.com/mguery/terraform/tree/main/aws/dev-env) with Terraform
 - Launched and configured a [WordPress instance](https://github.com/mguery/resume/blob/gh-pages/lightsail-wordpress.png) with Amazon Lightsail 
