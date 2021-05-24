@@ -14,7 +14,7 @@ To see how I can add value to your team, take a look at my [Plum.io profile](htt
 ## [Experience]
 - 10 years - customer experience, customer support, account management 
 - 6 years - WordPress development and maintenance
-- 1+ year(s) - Project management and coordination, technical writing, software documentation and training
+- 2 years - Project management and coordination, technical writing, software documentation and training
 
 ## [Certificates & Training]
 - In progess: AWS Solutions Architect Associate, self-study
@@ -26,21 +26,20 @@ To see how I can add value to your team, take a look at my [Plum.io profile](htt
 
 ## [Languages & Tools]
 - Help Scout, Salesforce, HubSpot
-- Asana, Trello, Basecamp
+- Asana, Trello
 - HoneyBook, Dubsado
 - Google Docs, Sheets, Analytics
 - Git, GitHub
 - SQL, Redash
 - WordPress, HTML, CSS, PHP
+- Linux commands & Bash scripting
+- Terraform
+- Basic knowledge of Docker, Python
 - AWS - hands-on experience with IAM, Elastic Beanstalk, CodeBuild, CodePipeline, Amazon Lightsail, CLoudFormation
-
-### Basic Knowledge
-Linux commands & Bash scripting, Terraform, Docker
-
 ---
 
 ## [Projects]
-- Launched a VPC across 3 Availibility Zones via AWS Console and [CloudFormation](https://github.com/mguery/aws-projects#project-build-a-vpc-with-cloudformation)
+- Launched a custom VPC using [AWS Console, CloudFormation, and Terraform](https://github.com/mguery/aws-projects#project-build-a-vpc-with-cloudformation)
 - Created a [continuous delivery pipeline](https://github.com/mguery/aws-elastic-beanstalk-express-js-sample) with Elastic Beanstalk, Codebuild, CodePipeline
 - Created a [Lambda function, SQS queue, and Event trigger](https://github.com/mguery/terraform/tree/main/aws/dev-env) with Terraform
 - Launched and configured a [WordPress instance](https://github.com/mguery/resume/blob/gh-pages/lightsail-wordpress.png) with Amazon Lightsail 
