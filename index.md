@@ -33,13 +33,14 @@ To see how I can add value to your team, take a look at my [Plum.io profile](htt
 - SQL, Redash
 - WordPress, HTML, CSS, PHP
 - Linux commands & Bash scripting
-- Terraform
-- Basic knowledge of Docker, Python
-- AWS - hands-on experience with IAM, Elastic Beanstalk, CodeBuild, CodePipeline, Amazon Lightsail, CLoudFormation
+- IaC - Terraform, CloudFormation
+- Basic knowledge of Docker and Python
+- AWS - hands-on experience with IAM, Elastic Beanstalk, CodeBuild, CodePipeline, Amazon Lightsail, VPC, IAM
+
 ---
 
 ## [Projects]
-- Launched a custom VPC using [AWS Console, CloudFormation, and Terraform](https://github.com/mguery/aws-projects#project-build-a-vpc-with-cloudformation)
+- Launched a custom VPC using [the AWS Console, CloudFormation, and Terraform](https://github.com/mguery/aws-projects#project-build-a-vpc-with-cloudformation)
 - Created a [continuous delivery pipeline](https://github.com/mguery/aws-elastic-beanstalk-express-js-sample) with Elastic Beanstalk, Codebuild, CodePipeline
 - Created a [Lambda function, SQS queue, and Event trigger](https://github.com/mguery/terraform/tree/main/aws/dev-env) with Terraform
 - Launched and configured a [WordPress instance](https://github.com/mguery/resume/blob/gh-pages/lightsail-wordpress.png) with Amazon Lightsail 
@@ -47,9 +48,18 @@ To see how I can add value to your team, take a look at my [Plum.io profile](htt
 - Software documentation (CRM) - [HoneyBook video and post](https://msguery.net/honeybook-workflows), [Dubsado video and text tutorial](https://msguery.net/dubsado-walkthrough)
 
 ### Other Projects
-- Tech-related blog posts - [Passing CompTIA Security+](https://msguery.net/passing-the-comptia-securityplus-exam), [Become AWS Certified in 2021](https://msguery.net/aws-certified)
+- Tech-related blog posts/videos - [Passing CompTIA Security+](https://msguery.net/passing-the-comptia-securityplus-exam), [Become AWS Certified in 2021](https://msguery.net/aws-certified), [Learn with Marjy - YouTube playlist](https://www.youtube.com/playlist?list=PLppGQhQtHyJYqflcAsLakbCGxla-64s1W)
 - Business tips and tutorials for online service providers - [YouTube](https://www.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg/videos), [Blog](https://msguery.net/blog)
 - Previous projects - [Web Dev Resources](https://mguery.github.io/web-dev), [WordPress starter theme](https://github.com/mguery/base-theme), [Bootstrap 4 to WordPress Resume theme](https://github.com/mguery/bs4-wp-resume)
+
+---
+
+## Relevant Coursework
+- Terraform for AWS - Beginner to Pro | [Warp 9 Training](https://warp-9.com/courses)
+- Ultimate Docker Fast-Track Beginner to Advanced | [Warp 9 Training](https://warp-9.com/courses)
+- AWS Cloud Architect Bootcamp | [CloudSkills.io](https://cloudskills.io/courses/aws-cloud-architect)
+- Migrating to the AWS Cloud | [edX](https://www.edx.org/course/migrating-to-the-aws-cloud)
+- Ultimate AWS Certified Solutions Architect Associate | [Udemy](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02)
 
 ## [Volunteer Work]
 - Registration Volunteer - WordCamp, 2017 - 2019
