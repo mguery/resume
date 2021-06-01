@@ -7,6 +7,7 @@ I'm currently an Atlanta-based Tech Implementation Consultant. I provide project
 To see how I can add value to your team, take a look at my [Plum.io profile](https://secure.plum.io/p/hk14dNZ_esxZzpK9gEMvXg).
 
 ## [Get in Touch]
+
 - [Email Marjy Guery](mailto:marjyguery+gh@gmail.com) (sounds like 'Margie Gary')
 - [View Work History on LinkedIn](https://www.linkedin.com/in/msguery)
 - [Download Resume - Google Docs](https://msguery.net/resume-doc)
@@ -17,6 +18,7 @@ To see how I can add value to your team, take a look at my [Plum.io profile](htt
 - 2 years - Project management and coordination, technical writing, software documentation and training
 
 ## [Certificates & Training]
+
 - In progess: AWS Solutions Architect Associate, self-study
 - AWS Certified Cloud Practitioner - Feb 2021
 - Asana Certified Pro - Aug 2020
@@ -25,6 +27,7 @@ To see how I can add value to your team, take a look at my [Plum.io profile](htt
 - CompTIA Security+ - Nov 2019
 
 ## [Languages & Tools]
+
 - Help Scout, Salesforce, HubSpot
 - Asana, Trello
 - HoneyBook, Dubsado
@@ -40,6 +43,7 @@ To see how I can add value to your team, take a look at my [Plum.io profile](htt
 ---
 
 ## [Projects]
+
 - Launched a custom VPC using [the AWS Console, CloudFormation, and Terraform](https://github.com/mguery/aws-projects#project-build-a-vpc-with-cloudformation)
 - Created a [continuous delivery pipeline](https://github.com/mguery/aws-elastic-beanstalk-express-js-sample) with Elastic Beanstalk, Codebuild, CodePipeline
 - Created a [Lambda function, SQS queue, and Event trigger](https://github.com/mguery/terraform/tree/main/aws/dev-env) with Terraform
@@ -48,13 +52,15 @@ To see how I can add value to your team, take a look at my [Plum.io profile](htt
 - Software documentation (CRM) - [HoneyBook video and post](https://msguery.net/honeybook-workflows), [Dubsado video and text tutorial](https://msguery.net/dubsado-walkthrough)
 
 ### Other Projects
+
 - Tech-related blog posts/videos - [Passing CompTIA Security+](https://msguery.net/passing-the-comptia-securityplus-exam), [Become AWS Certified in 2021](https://msguery.net/aws-certified), [Learn with Marjy - YouTube playlist](https://www.youtube.com/playlist?list=PLppGQhQtHyJYqflcAsLakbCGxla-64s1W)
 - Business tips and tutorials for online service providers - [YouTube](https://www.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg/videos), [Blog](https://msguery.net/blog)
 - Previous projects - [Web Dev Resources](https://mguery.github.io/web-dev), [WordPress starter theme](https://github.com/mguery/base-theme), [Bootstrap 4 to WordPress Resume theme](https://github.com/mguery/bs4-wp-resume)
 
 ---
 
-## Relevant Coursework
+## [Relevant Coursework]
+
 - Terraform for AWS - Beginner to Pro | [Warp 9 Training](https://warp-9.com/courses)
 - Ultimate Docker Fast-Track Beginner to Advanced | [Warp 9 Training](https://warp-9.com/courses)
 - AWS Cloud Architect Bootcamp | [CloudSkills.io](https://cloudskills.io/courses/aws-cloud-architect)
@@ -62,6 +68,7 @@ To see how I can add value to your team, take a look at my [Plum.io profile](htt
 - Ultimate AWS Certified Solutions Architect Associate | [Udemy](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02)
 
 ## [Volunteer Work]
+
 - Registration Volunteer - WordCamp, 2017 - 2019
 - WordPress Consultant - 48in48, Jan - Oct 2019
 - Digital Marketing - Taproot Foundation, Aug 2018 - Jan 2019
