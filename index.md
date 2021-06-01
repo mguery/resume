@@ -61,11 +61,11 @@ To see how I can add value to your team, take a look at my [Plum.io profile](htt
 
 ## [Relevant Coursework]
 
-- Terraform for AWS - Beginner to Pro | [Warp 9 Training](https://warp-9.com/courses)
-- Ultimate Docker Fast-Track Beginner to Advanced | [Warp 9 Training](https://warp-9.com/courses)
-- AWS Cloud Architect Bootcamp | [CloudSkills.io](https://cloudskills.io/courses/aws-cloud-architect)
-- Migrating to the AWS Cloud | [edX](https://www.edx.org/course/migrating-to-the-aws-cloud)
-- Ultimate AWS Certified Solutions Architect Associate | [Udemy](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02)
+- Terraform for AWS - Beginner to Pro - [Warp 9 Training](https://warp-9.com/courses)
+- Ultimate Docker Fast-Track Beginner to Advanced - [Warp 9 Training](https://warp-9.com/courses)
+- AWS Cloud Architect Bootcamp - [CloudSkills.io](https://cloudskills.io/courses/aws-cloud-architect)
+- Migrating to the AWS Cloud - [edX](https://www.edx.org/course/migrating-to-the-aws-cloud)
+- Ultimate AWS Certified Solutions Architect Associate - [Udemy](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02)
 
 ## [Volunteer Work]
 
