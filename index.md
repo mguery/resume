@@ -1,4 +1,4 @@
-**Certified AWS Cloud Practitioner and CompTIA Security+ with 10+ years of admin and customer support experience. Seeking a remote Customer Support Engineer or DevOps Engineer role.** 
+**Certified AWS Solutions Architect and CompTIA Security+ with 10+ years of admin and customer support experience. Seeking a remote Customer Support Engineer or DevOps Engineer role.** 
 
 Provided support to Fortune 500s, small businesses, and SaaS startups. Handled all customer-facing parts, including onboarding, customer service, billing, product training, and troubleshooting.
 
@@ -19,12 +19,11 @@ To see how I can add value to your team, take a look at my [Plum.io profile](htt
 
 ## [Certificates & Training]
 
-- In progess: AWS Solutions Architect Associate, self-study
-- AWS Certified Cloud Practitioner - Feb 2021
-- Asana Certified Pro - Aug 2020
-- Six Sigma Yellow Belt - May 2020
-- Growth-Driven Design - Feb 2020
-- CompTIA Security+ - Nov 2019
+- AWS Solutions Architect Associate
+- AWS Certified Cloud Practitioner
+- Asana Certified Pro
+- Six Sigma Yellow Belt
+- CompTIA Security+
 
 ## [Languages & Tools]
 
