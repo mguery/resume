@@ -1,4 +1,4 @@
-**Certified AWS Solutions Architect and CompTIA Security+ with 10+ years of admin and customer support experience. Seeking a remote Support Engineer or DevOps Engineer role.** 
+**Certified AWS Solutions Architect and CompTIA Security+ with 10+ years of admin and customer support experience. Seeking a remote Support Engineer or Cloud/DevOps Engineer role.** 
 
 Provided support to Fortune 500s, small businesses, and SaaS startups. Handled all customer-facing parts, including onboarding, customer service, billing, product training, and troubleshooting.
 
@@ -13,6 +13,7 @@ To see how I can add value to your team, take a look at my [Plum.io profile](htt
 - [Download Resume - Google Docs](https://msguery.net/resume-doc)
 
 ## [Experience]
+
 - 10 years - customer experience, customer support, account management 
 - 6 years - WordPress development and maintenance
 - 2 years - Project management and coordination, technical writing, software documentation and training
@@ -24,22 +25,6 @@ To see how I can add value to your team, take a look at my [Plum.io profile](htt
 - Asana Certified Pro
 - Six Sigma Yellow Belt
 - CompTIA Security+
-
-## [Languages & Tools]
-
-- Help Scout, Salesforce, HubSpot
-- Asana, Trello
-- HoneyBook, Dubsado
-- Google Docs, Sheets, Analytics
-- Git, GitHub
-- SQL, Redash
-- WordPress, HTML, CSS, PHP
-- Linux commands & Bash scripting
-- IaC - Terraform, CloudFormation
-- Basic knowledge of Docker and Python
-- AWS - hands-on experience with IAM, Elastic Beanstalk, CodeBuild, CodePipeline, Amazon Lightsail, VPC, IAM
-
----
 
 ## [Projects]
 
@@ -57,6 +42,20 @@ To see how I can add value to your team, take a look at my [Plum.io profile](htt
 - Previous projects - [Web Dev Resources](https://mguery.github.io/web-dev), [WordPress starter theme](https://github.com/mguery/base-theme), [Bootstrap 4 to WordPress Resume theme](https://github.com/mguery/bs4-wp-resume)
 
 ---
+
+## [Languages & Tools]
+
+- Help Scout, Salesforce, HubSpot
+- Asana, Trello
+- HoneyBook, Dubsado
+- Google Docs, Sheets, Analytics
+- Git, GitHub
+- SQL, Redash
+- WordPress, HTML, CSS, PHP
+- Linux commands & Bash scripting
+- IaC - Terraform, CloudFormation
+- Basic knowledge of Docker and Python
+- AWS - hands-on experience with IAM, Elastic Beanstalk, CodeBuild, CodePipeline, Amazon Lightsail, VPC, IAM
 
 ## [Relevant Coursework]
 
