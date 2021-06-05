@@ -4,27 +4,24 @@ Provided support to Fortune 500s, small businesses, and SaaS startups. Handled a
 
 I'm currently an Atlanta-based Tech Implementation Consultant. I provide project support and help online service providers set up business software in a day so they can focus on what they do best.  
 
-To see how I can add value to your team, take a look at my [Plum.io profile](https://secure.plum.io/p/hk14dNZ_esxZzpK9gEMvXg).
+To see how I can add value to your team, take a look at my [Plum.io profile](https://secure.plum.io/p/hk14dNZ_esxZzpK9gEMvXg) or read what others are saying:
+
+**Reviews**
+* "...Marjy completed the job in a timely and professional manner. Marjy helped me by saving time and money."
+* "...found the experience very easygoing. She is easy to work with."
+* "...an excellent teacher. I highly recommend her to guide you..."
+* "...unfailingly polite to the librarians she worked with and the students she was tutoring. Most notable was her patience with sometimes difficult patrons who could be frustrated in learning new computer skills." 
 
 ## [Get in Touch]
 
-- [Email Marjy Guery](mailto:marjyguery+gh@gmail.com) (sounds like 'Margie Gary')
-- [View Work History on LinkedIn](https://www.linkedin.com/in/msguery)
-- [Download Resume - Google Docs](https://msguery.net/resume-doc)
+- [View profile on LinkedIn](https://www.linkedin.com/in/msguery)
+- [Download resume](https://msguery.net/resume-doc) 
 
 ## [Experience]
 
-- 10 years - customer experience, customer support, account management 
+- 10+ years - customer experience, admin + customer support, account management 
 - 6 years - WordPress development and maintenance
 - 2 years - Project management and coordination, technical writing, software documentation and training
-
-## [Certificates & Training]
-
-- AWS Solutions Architect Associate
-- AWS Certified Cloud Practitioner
-- Asana Certified Pro
-- Six Sigma Yellow Belt
-- CompTIA Security+
 
 ## [Projects]
 
@@ -41,8 +38,6 @@ To see how I can add value to your team, take a look at my [Plum.io profile](htt
 - Business tips and tutorials for online service providers - [YouTube](https://www.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg/videos), [Blog](https://msguery.net/blog)
 - Previous projects - [Web Dev Resources](https://mguery.github.io/web-dev), [WordPress starter theme](https://github.com/mguery/base-theme), [Bootstrap 4 to WordPress Resume theme](https://github.com/mguery/bs4-wp-resume)
 
----
-
 ## [Languages & Tools]
 
 - Help Scout, Salesforce, HubSpot
@@ -57,7 +52,15 @@ To see how I can add value to your team, take a look at my [Plum.io profile](htt
 - Basic knowledge of Docker and Python
 - AWS - hands-on experience with IAM, Elastic Beanstalk, CodeBuild, CodePipeline, Amazon Lightsail, VPC, IAM
 
-## [Relevant Coursework]
+## [Certificates & Training]
+
+- AWS Solutions Architect Associate
+- AWS Certified Cloud Practitioner
+- Asana Certified Pro
+- Six Sigma Yellow Belt
+- CompTIA Security+
+
+### [Relevant Coursework]
 
 - In progress: Cloud Native Foundations program - [Udacity](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship)
 - Terraform for AWS - Beginner to Pro - [Warp 9 Training](https://warp-9.com/courses)
@@ -75,6 +78,6 @@ To see how I can add value to your team, take a look at my [Plum.io profile](htt
 
 ---
 
-Looking for a company that values diversity and inclusion, volunteering and community involvement with room to grow within the company. (And has an easygoing interview/hiring process.)
+Looking for a company that values diversity and inclusion, volunteering and community involvement with room to grow within the company. (With an easygoing interview/hiring process.)
 
-If that sounds like you, you can [send me an email](mailto:marjyguery+gh@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/msguery).
+If that sounds like you, you can connect with me on [LinkedIn](https://www.linkedin.com/in/msguery).
