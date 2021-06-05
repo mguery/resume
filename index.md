@@ -1,4 +1,4 @@
-**Certified AWS Solutions Architect and CompTIA Security+ with 10+ years of admin and customer support experience. Seeking a remote Customer Support Engineer or DevOps Engineer role.** 
+**Certified AWS Solutions Architect and CompTIA Security+ with 10+ years of admin and customer support experience. Seeking a remote Support Engineer or DevOps Engineer role.** 
 
 Provided support to Fortune 500s, small businesses, and SaaS startups. Handled all customer-facing parts, including onboarding, customer service, billing, product training, and troubleshooting.
 
@@ -60,6 +60,7 @@ To see how I can add value to your team, take a look at my [Plum.io profile](htt
 
 ## [Relevant Coursework]
 
+- In progress: Cloud Native Foundations program - [Udacity](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship)
 - Terraform for AWS - Beginner to Pro - [Warp 9 Training](https://warp-9.com/courses)
 - Ultimate Docker Fast-Track Beginner to Advanced - [Warp 9 Training](https://warp-9.com/courses)
 - AWS Cloud Architect Bootcamp - [CloudSkills.io](https://cloudskills.io/courses/aws-cloud-architect)
