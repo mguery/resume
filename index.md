@@ -2,20 +2,7 @@
 
 Provided support to Fortune 500s, small businesses, and SaaS startups. Handled all customer-facing parts, including onboarding, customer service, billing, product training, and troubleshooting.
 
-I'm currently an Atlanta-based Tech Implementation Consultant. I provide project support and help online service providers set up business software in a day so they can focus on what they do best.  
-
-To see how I can add value to your team, take a look at my [Plum.io profile](https://secure.plum.io/p/hk14dNZ_esxZzpK9gEMvXg) or read what others are saying:
-
-**Reviews**
-* "...Marjy completed the job in a timely and professional manner. Marjy helped me by saving time and money."
-* "...found the experience very easygoing. She is easy to work with."
-* "...an excellent teacher. I highly recommend her to guide you..."
-* "...unfailingly polite to the librarians she worked with and the students she was tutoring. Most notable was her patience with sometimes difficult patrons who could be frustrated in learning new computer skills." 
-
-## [Get in Touch]
-
-- [View profile on LinkedIn](https://www.linkedin.com/in/msguery)
-- [Download resume](https://msguery.net/resume-doc) 
+I'm an Atlanta-based Tech Implementation Consultant. I provide project support and help online service providers set up business software in a day so they can focus on what they do best.  
 
 ## [Experience]
 
@@ -49,7 +36,7 @@ To see how I can add value to your team, take a look at my [Plum.io profile](htt
 - WordPress, HTML, CSS, PHP
 - Linux commands & Bash scripting
 - IaC - Terraform, CloudFormation
-- Basic knowledge of Docker and Python
+- Docker, Python, Kuberbernetes
 - AWS - hands-on experience with IAM, Elastic Beanstalk, CodeBuild, CodePipeline, Amazon Lightsail, VPC, IAM
 
 ## [Certificates & Training]
@@ -60,7 +47,7 @@ To see how I can add value to your team, take a look at my [Plum.io profile](htt
 - Six Sigma Yellow Belt
 - CompTIA Security+
 
-### [Relevant Coursework]
+### Relevant Coursework
 
 - In progress: Cloud Native Foundations program - [Udacity](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship)
 - Terraform for AWS - Beginner to Pro - [Warp 9 Training](https://warp-9.com/courses)
@@ -78,6 +65,14 @@ To see how I can add value to your team, take a look at my [Plum.io profile](htt
 
 ---
 
-Looking for a company that values diversity and inclusion, volunteering and community involvement with room to grow within the company. (With an easygoing interview/hiring process.)
+To see how I can add value to your team, take a look at my [Plum.io profile](https://secure.plum.io/p/hk14dNZ_esxZzpK9gEMvXg) or read what others are saying:
 
-If that sounds like you, you can connect with me on [LinkedIn](https://www.linkedin.com/in/msguery).
+**Reviews**
+* "...Marjy completed the job in a timely and professional manner. Marjy helped me by saving time and money."
+* "...found the experience very easygoing. She is easy to work with."
+* "...an excellent teacher. I highly recommend her to guide you..."
+* "...unfailingly polite to the librarians she worked with and the students she was tutoring. Most notable was her patience with sometimes difficult patrons who could be frustrated in learning new computer skills." 
+
+---
+
+Looking for a company that values diversity and inclusion, volunteering and community involvement with room to grow within the company. (With an easygoing interview/hiring process.) If that sounds like you, let's chat on [LinkedIn](https://www.linkedin.com/in/msguery).
