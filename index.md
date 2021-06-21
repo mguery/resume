@@ -2,7 +2,15 @@
 
 Provided support to Fortune 500s, small businesses, and SaaS startups. Handled all customer-facing parts, including onboarding, customer service, billing, product training, and troubleshooting.
 
-I'm an Atlanta-based Tech Implementation Consultant. I provide project support and help online service providers set up business software in a day so they can focus on what they do best.  
+I'm an Atlanta-based Tech Implementation Consultant. I provide project support and help online service providers set up business software in a day so they can focus on what they do best. 
+
+**Reviews**
+* "...Marjy completed the job in a timely and professional manner. Marjy helped me by saving time and money."
+* "...found the experience very easygoing. She is easy to work with."
+* "...an excellent teacher. I highly recommend her to guide you..."
+* "...unfailingly polite to the librarians she worked with and the students she was tutoring. Most notable was her patience with sometimes difficult patrons who could be frustrated in learning new computer skills." 
+
+---
 
 ## [Experience]
 
@@ -65,14 +73,4 @@ I'm an Atlanta-based Tech Implementation Consultant. I provide project support a
 
 ---
 
-To see how I can add value to your team, take a look at my [Plum.io profile](https://secure.plum.io/p/hk14dNZ_esxZzpK9gEMvXg) or read what others are saying:
-
-**Reviews**
-* "...Marjy completed the job in a timely and professional manner. Marjy helped me by saving time and money."
-* "...found the experience very easygoing. She is easy to work with."
-* "...an excellent teacher. I highly recommend her to guide you..."
-* "...unfailingly polite to the librarians she worked with and the students she was tutoring. Most notable was her patience with sometimes difficult patrons who could be frustrated in learning new computer skills." 
-
----
-
-Looking for a company that values diversity and inclusion, volunteering and community involvement with room to grow within the company. (With an easygoing interview/hiring process.) If that sounds like you, let's chat on [LinkedIn](https://www.linkedin.com/in/msguery).
+To see how I can add value to your team, take a look at my [Plum.io profile](https://secure.plum.io/p/hk14dNZ_esxZzpK9gEMvXg). I'm looking for a company that is transparent, values diversity and inclusion, volunteering and community involvement with room to grow within the company. (With an easygoing interview/hiring process.) If that sounds like you, connect with on [LinkedIn](https://www.linkedin.com/in/msguery).
