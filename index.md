@@ -45,10 +45,11 @@ I'm an Atlanta-based Tech Implementation Consultant. I provide project support a
 - Linux commands & Bash scripting
 - IaC - Terraform, CloudFormation
 - Docker, Python, Kuberbernetes
-- AWS - hands-on experience with IAM, Elastic Beanstalk, CodeBuild, CodePipeline, Amazon Lightsail, VPC, IAM
+- AWS - hands-on experience with IAM, Elastic Beanstalk, CodeBuild, CodePipeline, Amazon Lightsail, VPC, IAM, Route 53
 
 ## [Certificates & Training]
 
+- AWS Solutions Architect Professional (in progress)
 - AWS Solutions Architect Associate
 - AWS Certified Cloud Practitioner
 - Asana Certified Pro
