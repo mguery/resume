@@ -1,4 +1,4 @@
-**Certified AWS Solutions Architect and CompTIA Security+ with 10+ years of admin and customer support experience. Seeking a remote Support Engineer or Cloud/DevOps Engineer role.** 
+**Certified AWS Solutions Architect and CompTIA Security+ with 10+ years of admin and customer support experience. Seeking a remote Support Engineer or Cloud Engineer role.** 
 
 Provided support to Fortune 500s, small businesses, and SaaS startups. Handled all customer-facing parts, including onboarding, customer service, billing, product training, and troubleshooting.
 
@@ -45,7 +45,7 @@ I'm an Atlanta-based Tech Implementation Consultant. I provide project support a
 - Linux commands & Bash scripting
 - IaC - Terraform, CloudFormation
 - Docker, Python, Kuberbernetes
-- AWS - hands-on experience with IAM, Elastic Beanstalk, CodeBuild, CodePipeline, Amazon Lightsail, VPC, IAM, Route 53
+- AWS - hands-on experience with IAM, Elastic Beanstalk, CodeBuild, CodePipeline, Amazon Lightsail, VPC, Route 53
 
 ## [Certificates & Training]
 
