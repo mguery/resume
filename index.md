@@ -50,6 +50,7 @@ I'm an Atlanta-based Tech Implementation Consultant. I provide project support a
 ## [Certificates & Training]
 
 - AWS Solutions Architect Professional (in progress)
+- Microsoft Certified Azure Fundamentals
 - AWS Solutions Architect Associate
 - AWS Certified Cloud Practitioner
 - Asana Certified Pro
