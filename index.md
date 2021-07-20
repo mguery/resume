@@ -1,4 +1,4 @@
-**Certified AWS Solutions Architect and CompTIA Security+ with 10+ years of admin and customer support experience. Seeking a remote Support Engineer or Cloud Engineer role.** 
+**Certified AWS Solutions Architect and CompTIA Security+ with admin and customer support experience. Seeking a remote Support Engineer or Cloud Engineer role.** 
 
 Provided support to Fortune 500s, small businesses, and SaaS startups. Handled all customer-facing parts, including onboarding, customer service, billing, product training, and troubleshooting.
 
@@ -14,13 +14,14 @@ I'm an Atlanta-based Tech Implementation Consultant. I provide project support a
 
 ## [Experience]
 
-- 10+ years - customer experience, admin + customer support, account management 
+- 9 years - customer experience, admin + customer support, account management 
 - 6 years - WordPress development and maintenance
 - 2 years - Project management and coordination, technical writing, software documentation and training
+- 1 year - Cloud computing - Amazon Web Services (AWS), Microsoft Azure (<6 months)
 
 ## [Projects]
 
-- Launched a custom VPC using [the AWS Console, CloudFormation, and Terraform](https://github.com/mguery/aws-projects#project-build-a-vpc-with-cloudformation)
+- Designed a custom VPC using [the AWS Console, CloudFormation, and Terraform](https://github.com/mguery/aws-projects#project-build-a-vpc-with-cloudformation)
 - Created a [continuous delivery pipeline](https://github.com/mguery/aws-elastic-beanstalk-express-js-sample) with Elastic Beanstalk, Codebuild, CodePipeline
 - Created a [Lambda function, SQS queue, and Event trigger](https://github.com/mguery/terraform/tree/main/aws/dev-env) with Terraform
 - Launched and configured a [WordPress instance](https://github.com/mguery/resume/blob/gh-pages/lightsail-wordpress.png) with Amazon Lightsail 
@@ -42,9 +43,9 @@ I'm an Atlanta-based Tech Implementation Consultant. I provide project support a
 - Git, GitHub
 - SQL, Redash
 - WordPress, HTML, CSS, PHP
-- Linux commands & Bash scripting
+- Linux command line & Bash scripting
 - IaC - Terraform, CloudFormation
-- Docker, Python, Kuberbernetes
+- Docker, Python, Kubernetes
 - AWS - hands-on experience with IAM, Elastic Beanstalk, CodeBuild, CodePipeline, Amazon Lightsail, VPC, Route 53
 
 ## [Certificates & Training]
