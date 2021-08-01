@@ -42,11 +42,11 @@ I'm an Atlanta-based Tech Implementation Consultant. I provide project support a
 - Google Docs, Sheets, Analytics
 - Git, GitHub
 - SQL, Redash
-- WordPress, HTML, CSS, PHP
+- WordPress theme development, HTML, CSS, PHP
 - Linux command line & Bash scripting
 - IaC - Terraform, CloudFormation
-- Docker, Python, Kubernetes
-- AWS - hands-on experience with IAM, Elastic Beanstalk, CodeBuild, CodePipeline, Amazon Lightsail, VPC, Route 53
+- Familiar with basic Docker, Python, Kubernetes
+- AWS - hands-on experience with IAM, AWS Organizations, Elastic Beanstalk, CodeBuild, CodePipeline, Amazon Lightsail, VPC, Route 53
 
 ## [Certificates & Training]
 
@@ -60,7 +60,7 @@ I'm an Atlanta-based Tech Implementation Consultant. I provide project support a
 
 ### Relevant Coursework
 
-- In progress: Cloud Native Foundations program - [Udacity](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship)
+- Cloud Native Foundations program - [Udacity](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship)
 - Terraform for AWS - Beginner to Pro - [Warp 9 Training](https://warp-9.com/courses)
 - Ultimate Docker Fast-Track Beginner to Advanced - [Warp 9 Training](https://warp-9.com/courses)
 - AWS Cloud Architect Bootcamp - [CloudSkills.io](https://cloudskills.io/courses/aws-cloud-architect)
@@ -70,10 +70,10 @@ I'm an Atlanta-based Tech Implementation Consultant. I provide project support a
 ## [Volunteer Work]
 
 - Registration Volunteer - WordCamp, 2017 - 2019
-- WordPress Consultant - 48in48, Jan - Oct 2019
+- WordPress Consultant - 48in48, Jan - Oct 2019, 2021
 - Digital Marketing - Taproot Foundation, Aug 2018 - Jan 2019
 - Tech Tutor - Bloomfield Public Library, August - November 2017
 
 ---
 
-To see how I can add value to your team, take a look at my [Plum.io profile](https://secure.plum.io/p/hk14dNZ_esxZzpK9gEMvXg). I'm looking for a company that is transparent, values diversity and inclusion, volunteering and community involvement with room to grow within the company. (With an easygoing interview/hiring process.) If that sounds like you, connect with on [LinkedIn](https://www.linkedin.com/in/msguery).
+To see how I can add value to your team, take a look at my [Plum.io profile](https://secure.plum.io/p/hk14dNZ_esxZzpK9gEMvXg). I'm looking for a company that is transparent, values diversity and inclusion, volunteering and community involvement with room to grow within the company. (And has a stress-free interview/hiring process.) If that sounds like you, I'm on [LinkedIn](https://www.linkedin.com/in/msguery).
