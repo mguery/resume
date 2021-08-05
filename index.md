@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/10605985/128423689-a6d5f6a4-a478-46af-b96e-672d42f858df.png)
+
 **Self-taught IT professional with 9 years of experience working closely with Fortune 500s, non-profits, and SaaS startups in a customer-facing role. AWS & Microsoft certified with a passion for learning new technologies.** 
 
 As a Implementation Consultant, I provide project support and help online service providers set up business software in a day so they can focus on what they do best. 
