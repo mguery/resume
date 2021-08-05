@@ -15,7 +15,7 @@ To see how I can add value to your team, check out my [Plum.io profile](https://
 - Quick learner and thrives in a fast-paced environment
 - Self-starter and takes the initiative to complete tasks with minimal supervision
 - Friendly, patient, and able to break down complex topics into easy-to-understand solutions
-- Customer-focused approach to troubleshooting, resolving problems and ensuring repeat business 
+- Customer-focused approach to troubleshooting, resolving problems and ensuring repeat business (97% successful customer satisfaction rate)
 - Knowledge of requirements gathering and technical documentation best practices
 - Can provide feedback from clients and prospects to help guide product roadmaps
 - Participate in sprint planning, review, and retrospective meetings
