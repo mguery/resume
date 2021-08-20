@@ -36,17 +36,16 @@ To see how I can add value to your team, check out my [Plum.io profile](https://
 
 2 years - Project management and process improvement
 - Technical writing, software documentation, onboarding and training
-- Asana Certified Pro, Trello, Jira, Six Sigma Yellow Belt, Agile, Scrum
+- Asana Certified Pro, Trello, Jira, Confluence, Six Sigma Yellow Belt, Agile, Scrum
 
 1 year - Cloud computing - Amazon Web Services (AWS), Microsoft Azure (<6 months)
 - AWS: IAM, AWS Organizations, CloudTrail, CloudWatch, Lightsail, VPC, Route 53, Elastic Beanstalk, CodeBuild, CodePipeline
-- DevOps, IaC, Containers: CirceCI, Git, GitHub, SQL, Redash, Linux command line, practical experience with Terraform, CloudFormation, Docker
+- Experience with CirceCI, Git, GitHub, SQL, Redash, Linux command line, Terraform, CloudFormation, Docker
 - Basic knowledge: Python, Kubernetes, SSH, networking fundamentals
 
 
 ## [Certificates & Training]
 
-- AWS Solutions Architect Professional (in progress)
 - Microsoft Certified Azure Fundamentals
 - AWS Solutions Architect Associate
 - AWS Certified Cloud Practitioner
@@ -94,5 +93,6 @@ Some things I'm looking for in a company:
 - Casual and supportive team environment
 - Transparent and values diversity and inclusion
 - Room to grow within the company
+- Example - [View HashiCorp Principles](https://www.hashicorp.com/our-principles)
 
 If this sounds like you, let's chat on [LinkedIn](https://www.linkedin.com/in/msguery).
