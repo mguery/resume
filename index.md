@@ -1,14 +1,12 @@
-**Self-taught IT professional with 9 years of experience working closely with Fortune 500s, non-profits, and SaaS startups in a customer-facing role. AWS & Microsoft certified with a passion for learning new technologies.** 
+**Self-taught IT professional with 9 years of experience in a customer-facing roles. AWS & Microsoft certified with a passion for learning new technologies.** 
 
-As an Implementation Consultant, I provide project support and help online service providers set up business software in a day so they can focus on what they do best. 
+Currently, I’m an Implementation Consultant helping online service providers set up business software in a day, including tools like HoneyBook, Dubsado, WordPress, and Asana. 
 
 **Reviews**
 * "...Marjy completed the job in a timely and professional manner. Marjy helped me by saving time and money."
 * "...found the experience very easygoing. She is easy to work with."
 * "...an excellent teacher. I highly recommend her to guide you..."
 * "...unfailingly polite to the librarians she worked with and the students she was tutoring. Most notable was her patience with sometimes difficult patrons who could be frustrated in learning new computer skills." 
-
-To see how I can add value to your team, check out my [Plum.io profile](https://secure.plum.io/p/hk14dNZ_esxZzpK9gEMvXg).
 
 ## [Qualifications]
 
@@ -22,6 +20,7 @@ To see how I can add value to your team, check out my [Plum.io profile](https://
 - Build and update internal and customer-facing documentation
 - Prepare monthly revenue reports for upper management
 - Has experience creating bug reports
+- [See how I can add value to your team](https://secure.plum.io/p/hk14dNZ_esxZzpK9gEMvXg)
 
 ## [Skills & Tools]
 
@@ -40,8 +39,8 @@ To see how I can add value to your team, check out my [Plum.io profile](https://
 
 1 year - Cloud computing - Amazon Web Services (AWS), Microsoft Azure (<6 months)
 - AWS: IAM, AWS Organizations, CloudTrail, CloudWatch, Lightsail, VPC, Route 53, Elastic Beanstalk, CodeBuild, CodePipeline
-- Experience with CirceCI, Git, GitHub, SQL, Redash, Linux command line, Terraform, CloudFormation, Docker
-- Basic knowledge: Python, Kubernetes, SSH, networking fundamentals
+- Experience with CirceCI, GitHub, SQL, Redash, Linux command line, Terraform, CloudFormation, Docker
+- Basic knowledge: Python, Kubernetes, Bash scripting, SSH, networking fundamentals
 
 
 ## [Certificates & Training]
@@ -63,7 +62,7 @@ To see how I can add value to your team, check out my [Plum.io profile](https://
 
 ## [Hands-on Projects]
 
-- Designed a custom VPC using [the AWS Console, CloudFormation, and Terraform](https://github.com/mguery/aws-projects#project-build-a-vpc-with-cloudformation)
+- Designed a [custom VPC using CloudFormation](https://github.com/mguery/aws-projects#project-build-a-vpc-with-cloudformation), launched an EC2 instance as a Bastion Host and connected to a PostgreSQL database with SSH tunneling 
 - Created a [continuous delivery pipeline](https://github.com/mguery/aws-elastic-beanstalk-express-js-sample) with Elastic Beanstalk, Codebuild, CodePipeline
 - Created a [Lambda function, SQS queue, and Event trigger](https://github.com/mguery/terraform/tree/main/aws/dev-env) with Terraform
 - Launched and configured a [WordPress instance](https://github.com/mguery/resume/blob/gh-pages/lightsail-wordpress.png) with Amazon Lightsail 
@@ -71,7 +70,7 @@ To see how I can add value to your team, check out my [Plum.io profile](https://
 
 ### Other Projects
 
-- Created a [DevOps Roadmap](https://mguery.github.io/devops-notes/) for aspiring engineers
+- Created a [DevOps Roadmap](https://mguery.github.io/devops-notes/) for aspiring cloud engineers
 - Software documentation (CRM) - [HoneyBook video and post](https://msguery.net/honeybook-workflows), [Dubsado video and text tutorial](https://msguery.net/dubsado-walkthrough)
 - Tech-related blog posts/videos - [Passing CompTIA Security+](https://msguery.net/passing-the-comptia-securityplus-exam), [Become AWS Certified in 2021](https://msguery.net/aws-certified), [Learn with Marjy - YouTube playlist](https://www.youtube.com/playlist?list=PLppGQhQtHyJYqflcAsLakbCGxla-64s1W)
 - Business tips and tutorials for online service providers - [YouTube](https://www.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg/videos), [Blog](https://msguery.net/blog)
@@ -80,7 +79,7 @@ To see how I can add value to your team, check out my [Plum.io profile](https://
 
 ## [Volunteer Work]
 
-- Page moderator - Black Cloud Geeks, 2021
+- Page moderator - Black Cloud Geeks, 2021 - Present
 - WordPress Consultant - 48in48, 2019 - Present
 - Registration Volunteer - WordCamp, 2017 - 2019
 - Digital Marketing - Taproot Foundation, 2018 - 2019
@@ -90,9 +89,8 @@ To see how I can add value to your team, check out my [Plum.io profile](https://
 
 Some things I'm looking for in a company: 
 - Stress-free interview process
-- Casual and supportive team environment
-- Transparent and values diversity and inclusion
-- Room to grow within the company
-- Example - [View HashiCorp Principles](https://www.hashicorp.com/our-principles)
+- [Casual and transparent workplace](https://www.glassdoor.com/employers/blog/transparency-in-the-workplace/)
+- Focuses on diversity, inclusion, and retention
+- With room to grow within the company
 
 If this sounds like you, let's chat on [LinkedIn](https://www.linkedin.com/in/msguery).
