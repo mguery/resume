@@ -38,7 +38,7 @@ Currently, I’m an Implementation Consultant helping online service providers s
 - Asana Certified Pro, Trello, Jira, Confluence, Six Sigma Yellow Belt, Agile, Scrum
 
 1 year - Cloud computing - Amazon Web Services (AWS), Microsoft Azure (<6 months)
-- AWS: IAM, AWS Organizations, CloudTrail, CloudWatch, Lightsail, VPC, Route 53, Elastic Beanstalk, CodeBuild, CodePipeline
+- AWS: IAM, AWS Organizations, CloudTrail, CloudWatch, Lightsail, VPC, Route 53, ECS & Fargate
 - Experience with CirceCI, GitHub, SQL, Redash, Linux command line, Terraform, CloudFormation, Docker
 - Basic knowledge: Python, Kubernetes, Bash scripting, SSH, networking fundamentals
 
@@ -62,6 +62,7 @@ Currently, I’m an Implementation Consultant helping online service providers s
 
 ## [Hands-on Projects]
 
+- Set up an [ECS Service on Fargate - Application Load Balancer + Autoscaling](https://github.com/mguery/aws-projects/blob/main/fargate.md)
 - Designed a [custom VPC using CloudFormation](https://github.com/mguery/aws-projects#project-build-a-vpc-with-cloudformation), launched an EC2 instance as a Bastion Host and connected to a PostgreSQL database with SSH tunneling 
 - Created a [continuous delivery pipeline](https://github.com/mguery/aws-elastic-beanstalk-express-js-sample) with Elastic Beanstalk, Codebuild, CodePipeline
 - Created a [Lambda function, SQS queue, and Event trigger](https://github.com/mguery/terraform/tree/main/aws/dev-env) with Terraform
