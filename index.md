@@ -1,6 +1,6 @@
-**Self-taught IT professional with 9 years of experience in a customer-facing roles. AWS & Microsoft certified with a passion for learning new technologies.** 
+*Self-taught IT professional with 9 years of experience in customer-facing roles. Certified in AWS & Microsoft Azure with a passion for learning new technologies. Looking for **entry-level** Cloud Engineer roles. Also available for contract work.*
 
-Currently, I’m an Implementation Consultant helping online service providers set up business software in a day, including tools like HoneyBook, Dubsado, WordPress, and Asana. 
+Currently, I’m an Implementation Consultant and work with online service providers, nonprofits, and startups who need help setting up cloud-based software. Including tools like HoneyBook, Dubsado, WordPress, and Asana.
 
 **Reviews**
 * "...Marjy completed the job in a timely and professional manner. Marjy helped me by saving time and money."
@@ -25,17 +25,17 @@ Currently, I’m an Implementation Consultant helping online service providers s
 ## [Skills & Tools]
 
 9 years - customer experience, admin + customer support, account management 
--  Email & live chat support: Help Scout, Salesforce, HubSpot, Zendesk
--  CRMs: HoneyBook, Dubsado, HubSpot
+-  Email & live chat support: Help Scout, HubSpot, Zendesk
+-  CRMs & Account Management: HoneyBook, Dubsado, HubSpot, Salesforce
 -  Software: Google Docs, Sheets, Analytics, Smartsheet, Chargebee, QuickBooks
 
 6 years - Web development
 - WordPress theme development, support and maintenance, Software development life cycle (SDLC)
-- Languages: HTML, CSS, PHP, Bootstrap, YAML
+- HTML, CSS, PHP, Bootstrap, YAML
 
 2 years - Project management and process improvement
 - Technical writing, software documentation, onboarding and training
-- Asana Certified Pro, Trello, Jira, Confluence, Six Sigma Yellow Belt, Agile, Scrum
+- Asana Certified Pro, Six Sigma Yellow Belt, Trello, Jira, Confluence, Agile, Scrum
 
 1 year - Cloud computing - Amazon Web Services (AWS), Microsoft Azure (<6 months)
 - AWS: IAM, AWS Organizations, CloudTrail, CloudWatch, Lightsail, VPC, Route 53, ECS & Fargate
