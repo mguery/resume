@@ -37,10 +37,10 @@ Currently, I’m an Implementation Consultant and work with online service provi
 - Technical writing, software documentation, onboarding and training
 - Asana Certified Pro, Six Sigma Yellow Belt, Trello, Jira, Confluence, Agile, Scrum
 
-1 year - Cloud computing - Amazon Web Services (AWS), Microsoft Azure (<6 months)
+1 year - Cloud computing - Amazon Web Services (AWS)
 - AWS: IAM, AWS Organizations, CloudTrail, CloudWatch, Lightsail, VPC, Route 53, ECS & Fargate
 - Experience with CirceCI, GitHub, SQL, Redash, Linux command line, Terraform, CloudFormation, Docker
-- Basic knowledge: Python, Kubernetes, Bash scripting, SSH, networking fundamentals
+- Basic knowledge: Python, Bash scripting, SSH, networking fundamentals
 
 
 ## [Certificates & Training]
@@ -52,7 +52,7 @@ Currently, I’m an Implementation Consultant and work with online service provi
 
 ### Relevant Coursework
 
-- In progress: [Learn DevOps: Infrastructure Automation With Terraform](https://www.udemy.com/course/learn-devops-infrastructure-automation-with-terraform)
+- In progress: [Ultimate AWS Certified Solutions Associate Professional](https://www.udemy.com/course/aws-solutions-architect-professional) & [Learn DevOps: Infrastructure Automation With Terraform](https://www.udemy.com/course/learn-devops-infrastructure-automation-with-terraform)
 - Cloud Native Foundations program - [Udacity](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship)
 - Terraform for AWS - Beginner to Pro - [Warp 9 Training](https://warp-9.com/courses)
 - Ultimate Docker Fast-Track Beginner to Advanced - [Warp 9 Training](https://warp-9.com/courses)
@@ -81,7 +81,7 @@ Currently, I’m an Implementation Consultant and work with online service provi
 ## [Volunteer Work]
 
 - Page moderator - Black Cloud Geeks, 2021 - Present
-- WordPress Consultant - 48in48, 2019 - Present
+- WordPress Consultant - 48in48.org, 2019 - Present
 - Registration Volunteer - WordCamp, 2017 - 2019
 - Digital Marketing - Taproot Foundation, 2018 - 2019
 - Tech Tutor - Bloomfield Public Library, 2017
