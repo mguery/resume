@@ -1,12 +1,6 @@
-*Self-taught IT professional with 9 years of experience in customer-facing roles. Certified in AWS & Microsoft Azure with a passion for learning new technologies. Looking for **entry-level** Cloud Engineer roles. Also available for contract work.*
+*Self-taught IT professional with 9 years of experience in customer-facing roles. Certified in AWS & Microsoft Azure with a passion for learning new technologies. Looking for **entry-level** Support or Cloud Engineer roles. Also available for contract work.*
 
 Currently, I’m an Implementation Consultant and work with online service providers, nonprofits, and startups who need help setting up cloud-based software. Including tools like HoneyBook, Dubsado, WordPress, and Asana.
-
-**Reviews**
-* "...Marjy completed the job in a timely and professional manner. Marjy helped me by saving time and money."
-* "...found the experience very easygoing. She is easy to work with."
-* "...an excellent teacher. I highly recommend her to guide you..."
-* "...unfailingly polite to the librarians she worked with and the students she was tutoring. Most notable was her patience with sometimes difficult patrons who could be frustrated in learning new computer skills." 
 
 ## [Qualifications]
 
@@ -20,7 +14,6 @@ Currently, I’m an Implementation Consultant and work with online service provi
 - Build and update internal and customer-facing documentation
 - Prepare monthly revenue reports for upper management
 - Has experience creating bug reports
-- [See how I can add value to your team](https://secure.plum.io/p/hk14dNZ_esxZzpK9gEMvXg)
 
 ## [Skills & Tools]
 
@@ -52,7 +45,9 @@ Currently, I’m an Implementation Consultant and work with online service provi
 
 ### Relevant Coursework
 
-- In progress: [Ultimate AWS Certified Solutions Associate Professional](https://www.udemy.com/course/aws-solutions-architect-professional) & [Learn DevOps: Infrastructure Automation With Terraform](https://www.udemy.com/course/learn-devops-infrastructure-automation-with-terraform)
+- Currently enrolled: 
+  -  [Ultimate AWS Certified Solutions Architect Professional](https://www.udemy.com/course/aws-solutions-architect-professional)
+  -  [Learn DevOps: Infrastructure Automation With Terraform](https://www.udemy.com/course/learn-devops-infrastructure-automation-with-terraform)
 - Cloud Native Foundations program - [Udacity](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship)
 - Terraform for AWS - Beginner to Pro - [Warp 9 Training](https://warp-9.com/courses)
 - Ultimate Docker Fast-Track Beginner to Advanced - [Warp 9 Training](https://warp-9.com/courses)
@@ -88,10 +83,20 @@ Currently, I’m an Implementation Consultant and work with online service provi
 
 ---
 
-Some things I'm looking for in a company: 
+## Info
+
+**Reviews**
+
+* "...Marjy completed the job in a timely and professional manner. Marjy helped me by saving time and money."
+* "...found the experience very easygoing. She is easy to work with."
+* "...an excellent teacher. I highly recommend her to guide you..."
+* "...unfailingly polite to the librarians she worked with and the students she was tutoring. Most notable was her patience with sometimes difficult patrons who could be frustrated in learning new computer skills." 
+
+
+Some things I'm looking for: 
 - Stress-free interview process
 - [Casual and transparent workplace](https://www.glassdoor.com/employers/blog/transparency-in-the-workplace/)
 - Focuses on diversity, inclusion, and retention
 - With room to grow within the company
 
-If this sounds like you, let's chat on [LinkedIn](https://www.linkedin.com/in/msguery).
+[See how I can add value to your team](https://secure.plum.io/p/hk14dNZ_esxZzpK9gEMvXg), [download resume](https://msguery.net/resume-doc), chat on [LinkedIn](https://www.linkedin.com/in/msguery).
