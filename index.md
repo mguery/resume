@@ -1,13 +1,11 @@
-*Self-taught IT professional with 9 years of experience in customer-facing roles. Certified in AWS & Microsoft Azure with a passion for learning new technologies. Looking for **entry-level** Support or Cloud Engineer roles. Also available for contract work.*
-
-Currently, I’m an Implementation Consultant and work with online service providers, nonprofits, and startups who need help setting up cloud-based software. Including tools like HoneyBook, Dubsado, WordPress, and Asana.
+*Self-taught IT professional with 9 years of experience in customer-facing roles. Certified in AWS & Microsoft Azure with a passion for learning new technologies. Looking for **entry-level** Support or Cloud Engineer roles. As an Implementation Consultant, I work with independent consultants, nonprofits, and startups who need help setting up business software.*
 
 ## [Qualifications]
 
 - Quick learner and thrives in a fast-paced environment
 - Self-starter and takes the initiative to complete tasks with minimal supervision
 - Friendly, patient, and able to break down complex topics into easy-to-understand solutions
-- Customer-focused approach to troubleshooting, resolving problems and ensuring repeat business (97% successful customer satisfaction rate)
+- Customer-focused approach to troubleshooting and resolving problems (97% successful customer satisfaction rate)
 - Knowledge of requirements gathering and technical documentation best practices
 - Can provide feedback from clients and prospects to help guide product roadmaps
 - Participate in sprint planning, review, and retrospective meetings
@@ -30,7 +28,7 @@ Currently, I’m an Implementation Consultant and work with online service provi
 - Technical writing, software documentation, onboarding and training
 - Asana Certified Pro, Six Sigma Yellow Belt, Trello, Jira, Confluence, Agile, Scrum
 
-1 year - Cloud computing - Amazon Web Services (AWS)
+1 year - Cloud computing 
 - AWS: IAM, AWS Organizations, CloudTrail, CloudWatch, Lightsail, VPC, Route 53, ECS & Fargate
 - Experience with CirceCI, GitHub, SQL, Redash, Linux command line, Terraform, CloudFormation, Docker
 - Basic knowledge: Python, Bash scripting, SSH, networking fundamentals
@@ -58,10 +56,9 @@ Currently, I’m an Implementation Consultant and work with online service provi
 ## [Hands-on Projects]
 
 - Set up an [ECS Service on Fargate - Application Load Balancer + Autoscaling](https://github.com/mguery/aws-projects/blob/main/fargate.md)
-- Designed a [custom VPC using CloudFormation](https://github.com/mguery/aws-projects#project-build-a-vpc-with-cloudformation), launched an EC2 instance as a Bastion Host and connected to a PostgreSQL database with SSH tunneling 
-- Created a [continuous delivery pipeline](https://github.com/mguery/aws-elastic-beanstalk-express-js-sample) with Elastic Beanstalk, Codebuild, CodePipeline
-- Created a [Lambda function, SQS queue, and Event trigger](https://github.com/mguery/terraform/tree/main/aws/dev-env) with Terraform
-- Launched and configured a [WordPress instance](https://github.com/mguery/resume/blob/gh-pages/lightsail-wordpress.png) with Amazon Lightsail 
+- Designed a [custom VPC using CloudFormation](https://github.com/mguery/aws-projects#project-build-a-vpc-with-cloudformation), launched an EC2 instance as a Bastion Host and connected to a PostgreSQL database
+- Created ECS dashboard to monitor key metrics with Datadog
+- Launched and configured a WordPress instance with Amazon Lightsail 
 
 
 ### Other Projects
@@ -76,14 +73,13 @@ Currently, I’m an Implementation Consultant and work with online service provi
 ## [Volunteer Work]
 
 - Page moderator - Black Cloud Geeks, 2021 - Present
-- WordPress Consultant - 48in48.org, 2019 - Present
+- WordPress Expert - 48in48.org, 2019 - Present
 - Registration Volunteer - WordCamp, 2017 - 2019
 - Digital Marketing - Taproot Foundation, 2018 - 2019
 - Tech Tutor - Bloomfield Public Library, 2017
 
----
 
-## Info
+## [Info]
 
 **Reviews**
 
@@ -99,4 +95,4 @@ Some things I'm looking for:
 - Focuses on diversity, inclusion, and retention
 - With room to grow within the company
 
-[See how I can add value to your team](https://secure.plum.io/p/hk14dNZ_esxZzpK9gEMvXg), [download resume](https://msguery.net/resume-doc), chat on [LinkedIn](https://www.linkedin.com/in/msguery).
+[See how I can add value to your team](https://secure.plum.io/p/hk14dNZ_esxZzpK9gEMvXg), [download resume](https://msguery.net/resume-doc), get in touch with me on [LinkedIn](https://www.linkedin.com/in/msguery).
