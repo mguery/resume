@@ -1,4 +1,4 @@
-*Self-taught IT professional with 9 years of experience in customer-facing roles. Certified in AWS & Microsoft Azure with a passion for learning new technologies. Looking for **entry-level** Support or Cloud Engineer roles. As an Implementation Consultant, I work with independent consultants, nonprofits, and startups who need help setting up business software.*
+*Self-taught IT professional with 9 years of experience in customer-facing roles. Certified in AWS & Microsoft Azure with a passion for learning new technologies. Looking for **entry-level** cloud computing role. As an Implementation Consultant, I work with independent consultants, nonprofits, and startups who need help setting up business software.*
 
 ## [Qualifications]
 
@@ -24,7 +24,7 @@
 - WordPress theme development, support and maintenance, Software development life cycle (SDLC)
 - HTML, CSS, PHP, Bootstrap, YAML
 
-2 years - Project management and process improvement
+2 years - Project management and documentation
 - Technical writing, software documentation, onboarding and training
 - Asana Certified Pro, Six Sigma Yellow Belt, Trello, Jira, Confluence, Agile, Scrum
 
@@ -36,16 +36,17 @@
 
 ## [Certificates & Training]
 
-- Microsoft Certified Azure Fundamentals
-- AWS Solutions Architect Associate
-- AWS Certified Cloud Practitioner
-- CompTIA Security+
+- Microsoft Certified Azure Security Engineer, in progress
+- Microsoft Certified Azure Fundamentals, 2021
+- AWS Solutions Architect Associate, 2021
+- AWS Certified Cloud Practitioner, 2021
+- CompTIA Security+, 2019
 
 ### Relevant Coursework
 
-- Currently enrolled: 
-  -  [Ultimate AWS Certified Solutions Architect Professional](https://www.udemy.com/course/aws-solutions-architect-professional)
-  -  [Learn DevOps: Infrastructure Automation With Terraform](https://www.udemy.com/course/learn-devops-infrastructure-automation-with-terraform)
+- Currently enrolled/studying: 
+  -  Microsoft Azure Security
+  -  AWS Security Specialty
 - Cloud Native Foundations program - [Udacity](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship)
 - Terraform for AWS - Beginner to Pro - [Warp 9 Training](https://warp-9.com/courses)
 - Ultimate Docker Fast-Track Beginner to Advanced - [Warp 9 Training](https://warp-9.com/courses)
@@ -54,18 +55,20 @@
 
 
 ## [Hands-on Projects]
-
+AWS
 - Set up an [ECS Service on Fargate - Application Load Balancer + Autoscaling](https://github.com/mguery/aws-projects/blob/main/fargate.md)
 - Designed a [custom VPC using CloudFormation](https://github.com/mguery/aws-projects#project-build-a-vpc-with-cloudformation), launched an EC2 instance as a Bastion Host and connected to a PostgreSQL database
 - Created ECS dashboard to monitor key metrics with Datadog
 - Launched and configured a WordPress instance with Amazon Lightsail 
 
+Azure
+- [Cloud resume challenge, in progress](https://cloudresumechallenge.dev/docs/the-challenge/azure)
 
 ### Other Projects
 
 - Created a [DevOps Roadmap](https://mguery.github.io/devops-notes/) for aspiring cloud engineers
 - Software documentation (CRM) - [HoneyBook video and post](https://msguery.net/honeybook-workflows), [Dubsado video and text tutorial](https://msguery.net/dubsado-walkthrough)
-- Tech-related blog posts/videos - [Passing CompTIA Security+](https://msguery.net/passing-the-comptia-securityplus-exam), [Become AWS Certified in 2021](https://msguery.net/aws-certified), [Learn with Marjy - YouTube playlist](https://www.youtube.com/playlist?list=PLppGQhQtHyJYqflcAsLakbCGxla-64s1W)
+- Tech-related blog posts/videos - [Passing CompTIA Security+](https://msguery.net/passing-the-comptia-securityplus-exam), [Become AWS Certified in 2021](https://msguery.net/aws-certified), [Cloud with Marjy - YouTube playlist](https://www.youtube.com/playlist?list=PLppGQhQtHyJYqflcAsLakbCGxla-64s1W)
 - Business tips and tutorials for online service providers - [YouTube](https://www.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg/videos), [Blog](https://msguery.net/blog)
 - Previous projects - [Web Dev Resources](https://mguery.github.io/web-dev), [WordPress starter theme](https://github.com/mguery/base-theme), [Bootstrap 4 to WordPress Resume theme](https://github.com/mguery/bs4-wp-resume)
 
@@ -75,7 +78,7 @@
 - Page moderator - Black Cloud Geeks, 2021 - Present
 - WordPress Expert - 48in48.org, 2019 - Present
 - Registration Volunteer - WordCamp, 2017 - 2019
-- Digital Marketing - Taproot Foundation, 2018 - 2019
+- Digital Marketing/WordPress Design - Taproot Foundation, 2018 - 2019
 - Tech Tutor - Bloomfield Public Library, 2017
 
 
@@ -91,8 +94,8 @@
 
 Some things I'm looking for: 
 - Stress-free interview process
-- [Casual and transparent workplace](https://www.glassdoor.com/employers/blog/transparency-in-the-workplace/)
+- [Casual, supportive, and transparent workplace](https://www.glassdoor.com/employers/blog/transparency-in-the-workplace/)
 - Focuses on diversity, inclusion, and retention
-- With room to grow within the company
+- Room to grow within the company
 
 [See how I can add value to your team](https://secure.plum.io/p/hk14dNZ_esxZzpK9gEMvXg), [download resume](https://msguery.net/resume-doc), get in touch with me on [LinkedIn](https://www.linkedin.com/in/msguery).
