@@ -62,7 +62,7 @@ AWS
 - Launched and configured a WordPress instance with Amazon Lightsail 
 
 Azure
-- [Cloud resume challenge, in progress](https://cloudresumechallenge.dev/docs/the-challenge/azure)
+- [Cloud resume challenge, in progress](https://github.com/mguery/azure-resume)
 
 ### Other Projects
 
