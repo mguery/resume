@@ -56,10 +56,14 @@
 
 ## [Hands-on Projects]
 AWS
+- Built a development environment with [AWS and Terraform](https://github.com/mguery/terraform/tree/main/aws/tf-dev-env)
 - Set up an [ECS Service on Fargate - Application Load Balancer + Autoscaling](https://github.com/mguery/aws-projects/blob/main/fargate.md)
 - Designed a [custom VPC using CloudFormation](https://github.com/mguery/aws-projects#project-build-a-vpc-with-cloudformation), launched an EC2 instance as a Bastion Host and connected to a PostgreSQL database
 - Created ECS dashboard to monitor key metrics with Datadog
 - Launched and configured a WordPress instance with Amazon Lightsail 
+
+Terraform
+- Used [Spotify API, Docker Desktop, and Terraform](https://github.com/mguery/terraform/tree/main/spotify) to create a playlist
 
 Azure
 - [Cloud resume challenge, in progress](https://github.com/mguery/azure-resume)
