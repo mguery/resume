@@ -1,4 +1,4 @@
-*Self-taught IT professional with 9 years of experience in customer-facing roles. Certified in AWS & Microsoft Azure with a passion for learning new technologies. Looking for **entry-level** cloud computing role. As an Implementation Consultant, I work with independent consultants, nonprofits, and startups who need help setting up business software.*
+*Self-taught Cloud Engineer with 9 years of experience in customer-facing roles. Certified in AWS & Microsoft Azure and has a passion for learning new technologies. As an Implementation Consultant, I work with independent consultants, nonprofits, and startups who need help setting up and automating business software.*
 
 ## [Qualifications]
 
@@ -45,8 +45,8 @@
 ### Relevant Coursework
 
 - Currently enrolled/studying: 
-  -  Microsoft Azure Security
-  -  AWS Security Specialty
+  -  Microsoft Azure Security (SC-300, AZ-500)
+  -  [IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation)
 - Cloud Native Foundations program - [Udacity](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship)
 - Terraform for AWS - Beginner to Pro - [Warp 9 Training](https://warp-9.com/courses)
 - Ultimate Docker Fast-Track Beginner to Advanced - [Warp 9 Training](https://warp-9.com/courses)
@@ -56,7 +56,7 @@
 
 ## [Hands-on Projects]
 AWS
-- Built a development environment with [AWS and Terraform](https://github.com/mguery/terraform/tree/main/aws/tf-dev-env)
+- Built a development environment with [AWS and Terraform](https://github.com/mguery/terraform/tree/main/aws/tf-dev-env), launched Docker container
 - Set up an [ECS Service on Fargate - Application Load Balancer + Autoscaling](https://github.com/mguery/aws-projects/blob/main/fargate.md)
 - Designed a [custom VPC using CloudFormation](https://github.com/mguery/aws-projects#project-build-a-vpc-with-cloudformation), launched an EC2 instance as a Bastion Host and connected to a PostgreSQL database
 - Created ECS dashboard to monitor key metrics with Datadog
@@ -102,4 +102,4 @@ Some things I'm looking for:
 - Focuses on diversity, inclusion, and retention
 - Room to grow within the company
 
-[See how I can add value to your team](https://secure.plum.io/p/hk14dNZ_esxZzpK9gEMvXg), [download resume](https://docs.google.com/document/d/1K4OL351ZP9IgZJuYnp6B8Ad_y41f1tOYPv1YtlFHigM), get in touch with me on [LinkedIn](https://www.linkedin.com/in/msguery).
+[See how I can add value to your team](https://secure.plum.io/p/hk14dNZ_esxZzpK9gEMvXg), [download PDF](https://docs.google.com/document/d/1K4OL351ZP9IgZJuYnp6B8Ad_y41f1tOYPv1YtlFHigM), get in touch with me on [LinkedIn](https://www.linkedin.com/in/msguery).
