@@ -66,7 +66,8 @@ Terraform
 - Used [Spotify API, Docker Desktop, and Terraform](https://github.com/mguery/terraform/tree/main/spotify) to create a playlist
 
 Azure
-- [Cloud resume challenge, in progress](https://github.com/mguery/azure-resume)
+- [Security projects](https://github.com/mguery/azure-projects) - Azure AD (AD connect, PIM, etc)
+- Cloud resume challenge, in progress
 
 ### Other Projects
 
