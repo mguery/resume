@@ -30,8 +30,9 @@
 
 1 year - Cloud computing 
 - AWS: IAM, AWS Organizations, CloudTrail, CloudWatch, Lightsail, VPC, Route 53, ECS & Fargate
+- Azure: Azure Active Directory (custom domains, AD Connect, conditional access, Privileged Identity Management)
 - Experience with CirceCI, GitHub, SQL, Redash, Linux command line, Terraform, CloudFormation, Docker
-- Basic knowledge: Python, Bash scripting, SSH, networking fundamentals
+- Basic knowledge of Python, Bash scripting, SSH, networking fundamentals
 
 
 ## [Certificates & Training]
