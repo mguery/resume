@@ -38,6 +38,7 @@
 ## [Certificates & Training]
 
 - Microsoft Certified Azure Security Engineer, in progress
+- Microsoft Certified Identity and Access Administrator, 2022
 - Microsoft Certified Azure Fundamentals, 2021
 - AWS Solutions Architect Associate, 2021
 - AWS Certified Cloud Practitioner, 2021
@@ -46,7 +47,7 @@
 ### Relevant Coursework
 
 - Currently enrolled/studying: 
-  -  Microsoft Azure Security (SC-300, AZ-500)
+  -  Microsoft Azure Security Engineer Associate (AZ-500)
   -  [IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation)
 - Cloud Native Foundations program - [Udacity](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship)
 - Terraform for AWS - Beginner to Pro - [Warp 9 Training](https://warp-9.com/courses)
@@ -67,8 +68,8 @@ Terraform
 - Used [Spotify API, Docker Desktop, and Terraform](https://github.com/mguery/terraform/tree/main/spotify) to create a playlist
 
 Azure
-- [Security projects](https://github.com/mguery/azure-projects) - Azure AD (AD connect, PIM, etc)
-- Cloud resume challenge, in progress
+- [Security projects](https://github.com/mguery/azure-projects) - Azure AD (AD connect, PIM, custom domains)
+<!-- - Cloud resume challenge, in progress -->
 
 ### Other Projects
 
