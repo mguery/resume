@@ -105,4 +105,4 @@ Some things I'm looking for:
 - Focuses on diversity, inclusion, and retention
 - Room to grow within the company
 
-[See how I can add value to your team](https://secure.plum.io/p/hk14dNZ_esxZzpK9gEMvXg), [download PDF](https://docs.google.com/document/d/1K4OL351ZP9IgZJuYnp6B8Ad_y41f1tOYPv1YtlFHigM), get in touch with me on [LinkedIn](https://www.linkedin.com/in/msguery).
+[See how I can add value to your team](https://secure.plum.io/p/hk14dNZ_esxZzpK9gEMvXg), [download PDF](https://docs.google.com/document/d/1tBZ8X7tb-ApQqWWxV3zdDfPBW2BqRVGasmktyJaektc), get in touch with me on [LinkedIn](https://www.linkedin.com/in/msguery).
