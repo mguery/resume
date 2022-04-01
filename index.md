@@ -22,7 +22,7 @@
 
 6 years - Web development
 - WordPress theme development, support and maintenance, Software development life cycle (SDLC)
-- HTML, CSS, PHP, Bootstrap, YAML
+- HTML, CSS, Sass, PHP, Bootstrap, YAML
 
 2 years - Project management and documentation
 - Technical writing, software documentation, onboarding and training
@@ -58,7 +58,8 @@
 
 ## [Hands-on Projects]
 AWS
-- Built a development environment with [AWS and Terraform](https://github.com/mguery/terraform/tree/main/aws/tf-dev-env), launched Docker container
+<!-- - Cloud resume challenge, in progress -->
+- Built a development environment with [AWS and Terraform](https://github.com/mguery/terraform/tree/main/aws/tf-dev-env), connected to Linux server, launched Docker container
 - Set up an [ECS Service on Fargate - Application Load Balancer + Autoscaling](https://github.com/mguery/aws-projects/blob/main/fargate.md)
 - Designed a [custom VPC using CloudFormation](https://github.com/mguery/aws-projects#project-build-a-vpc-with-cloudformation), launched an EC2 instance as a Bastion Host and connected to a PostgreSQL database
 - Created ECS dashboard to monitor key metrics with Datadog
@@ -69,7 +70,7 @@ Terraform
 
 Azure
 - [Security projects](https://github.com/mguery/azure-projects) - Azure AD (AD connect, PIM, custom domains)
-<!-- - Cloud resume challenge, in progress -->
+
 
 ### Other Projects
 
