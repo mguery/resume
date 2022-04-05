@@ -1,4 +1,4 @@
-*Self-taught Cloud Engineer with 9 years of experience in customer-facing roles. Certified in AWS & Microsoft Azure and has a passion for learning new technologies. As an Implementation Consultant, I work with independent consultants, nonprofits, and startups who need help setting up and automating business software.*
+*Self-taught Cloud Engineer with 9 years of experience in customer-facing roles. Certified in AWS & Microsoft Azure and has a passion for learning new technologies. As an Implementation Consultant, I help small business owners set up and automate project management and client management software.*
 
 ## [Qualifications]
 
@@ -37,7 +37,6 @@
 
 ## [Certificates & Training]
 
-- Microsoft Certified Azure Security Engineer, in progress
 - Microsoft Certified Identity and Access Administrator, 2022
 - Microsoft Certified Azure Fundamentals, 2021
 - AWS Solutions Architect Associate, 2021
@@ -47,7 +46,6 @@
 ### Relevant Coursework
 
 - Currently enrolled/studying: 
-  -  Microsoft Azure Security Engineer Associate (AZ-500)
   -  [IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation)
 - Cloud Native Foundations program - [Udacity](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship)
 - Terraform for AWS - Beginner to Pro - [Warp 9 Training](https://warp-9.com/courses)
