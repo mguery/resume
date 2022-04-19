@@ -1,5 +1,5 @@
 # Marjy Guery resume
 
-**Self-taught Cloud Engineer with 9 years of experience in customer-facing roles. Handled all customer-facing parts, including onboarding, customer service, billing, product training, and troubleshooting. Certified in Security+, AWS, and Azure. Looking for entry-level role in cloud computing.**
+**Certified in AWS & Microsoft Azure Cloud Engineer with customer support and project management experience. As an Implementation Consultant, I help small business owners set up and automate project management and client management software.**
 
 [View Resume](https://mguery.github.io/resume)
