@@ -1,4 +1,4 @@
-*Self-taught Cloud Engineer with 9 years of experience in customer-facing roles. Certified in AWS & Microsoft Azure and has a passion for learning new technologies. As an Implementation Consultant, I help small business owners set up and automate project management and client management software.*
+*Certified in AWS & Microsoft Azure Cloud Engineer with customer support and project management experience. As an Implementation Consultant, I help small business owners set up and automate project management and client management software.*
 
 ## [Qualifications]
 
@@ -15,20 +15,20 @@
 
 ## [Skills & Tools]
 
-9 years - customer experience, admin + customer support, account management 
+Admin + customer support
 -  Email & live chat support: Help Scout, HubSpot, Zendesk
 -  CRMs & Account Management: HoneyBook, Dubsado, HubSpot, Salesforce
 -  Software: Google Docs, Sheets, Analytics, Smartsheet, Chargebee, QuickBooks
 
-6 years - Web development
+Web development
 - WordPress theme development, support and maintenance, Software development life cycle (SDLC)
 - HTML, CSS, Sass, PHP, Bootstrap, YAML
 
-2 years - Project management and documentation
+Project management
 - Technical writing, software documentation, onboarding and training
 - Asana Certified Pro, Six Sigma Yellow Belt, Trello, Jira, Confluence, Agile, Scrum
 
-1 year - Cloud computing 
+Cloud computing 
 - AWS: IAM, AWS Organizations, CloudTrail, CloudWatch, Lightsail, VPC, Route 53, ECS & Fargate
 - Azure: Azure Active Directory (custom domains, AD Connect, conditional access, Privileged Identity Management)
 - Experience with CirceCI, GitHub, SQL, Redash, Linux command line, Terraform, CloudFormation, Docker
@@ -56,7 +56,6 @@
 
 ## [Hands-on Projects]
 AWS
-<!-- - Cloud resume challenge, in progress -->
 - Built a development environment with [AWS and Terraform](https://github.com/mguery/terraform/tree/main/aws/tf-dev-env), connected to Linux server, launched Docker container
 - Set up an [ECS Service on Fargate - Application Load Balancer + Autoscaling](https://github.com/mguery/aws-projects/blob/main/fargate.md)
 - Designed a [custom VPC using CloudFormation](https://github.com/mguery/aws-projects#project-build-a-vpc-with-cloudformation), launched an EC2 instance as a Bastion Host and connected to a PostgreSQL database
@@ -96,12 +95,5 @@ Azure
 * "...found the experience very easygoing. She is easy to work with."
 * "...an excellent teacher. I highly recommend her to guide you..."
 * "...unfailingly polite to the librarians she worked with and the students she was tutoring. Most notable was her patience with sometimes difficult patrons who could be frustrated in learning new computer skills." 
-
-
-Some things I'm looking for: 
-- Stress-free interview process
-- [Casual, supportive, and transparent workplace](https://www.glassdoor.com/employers/blog/transparency-in-the-workplace/)
-- Focuses on diversity, inclusion, and retention
-- Room to grow within the company
 
 [See how I can add value to your team](https://secure.plum.io/p/hk14dNZ_esxZzpK9gEMvXg), [download PDF](https://docs.google.com/document/d/1tBZ8X7tb-ApQqWWxV3zdDfPBW2BqRVGasmktyJaektc), get in touch with me on [LinkedIn](https://www.linkedin.com/in/msguery).
