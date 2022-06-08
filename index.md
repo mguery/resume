@@ -26,7 +26,7 @@ Web development
 
 Project management
 - Technical writing, software documentation, onboarding and training
-- Asana Certified Pro, Six Sigma Yellow Belt, Trello, Jira, Confluence, Agile, Scrum
+- Asana Certified Pro, Agile, Scrum, Lean Six Sigma, Trello, Jira, Confluence, Azure DevOps, Microsoft Project
 
 Cloud computing 
 - AWS: IAM, AWS Organizations, CloudTrail, CloudWatch, Lightsail, VPC, Route 53, ECS & Fargate
@@ -46,7 +46,7 @@ Cloud computing
 ### Relevant Coursework
 
 - Currently enrolled/studying: 
-  -  [IT Automation with Python](https://www.coursera.org/professional-certificates/google-it-automation)
+  -  [Google Project Management](https://www.coursera.org/professional-certificates/google-project-management)
 - Cloud Native Foundations program - [Udacity](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship)
 - Terraform for AWS - Beginner to Pro - [Warp 9 Training](https://warp-9.com/courses)
 - Ultimate Docker Fast-Track Beginner to Advanced - [Warp 9 Training](https://warp-9.com/courses)
