@@ -1,4 +1,6 @@
-*Certified in AWS & Microsoft Azure Cloud Engineer with customer support and project management experience. As an Implementation Consultant, I help small business owners set up and automate project management and client management software.*
+*Self-taught techie certified in AWS, Microsoft Azure, Security+. Background in administrative, customer support, and project management. As an Implementation Consultant, I helped online service providers set up and automate project management and client management software. I've led software implementation and web development projects from discovery to launch to post support & training.*
+
+Collaborator • Emphathetic • Customer-focused • Planner & Organizer
 
 ## [Qualifications]
 
@@ -9,16 +11,16 @@
 - Knowledge of requirements gathering and technical documentation best practices
 - Can provide feedback from clients and prospects to help guide product roadmaps
 - Participate in sprint planning, review, and retrospective meetings
-- Build and update internal and customer-facing documentation
+- Create and manage internal processes and customer-facing documentation
 - Prepare monthly revenue reports for upper management
-- Has experience creating bug reports
+- Experience creating bug reports, identifying and escalating issues
 
-## [Skills & Tools]
+## [Skills & Technologies]
 
 Admin + customer support
 -  Email & live chat support: Help Scout, HubSpot, Zendesk
 -  CRMs & Account Management: HoneyBook, Dubsado, HubSpot, Salesforce
--  Software: Google Docs, Sheets, Analytics, Smartsheet, Chargebee, QuickBooks
+-  Software: Google Workspace (Docs, Sheets), Google Analytics, Smartsheet, Chargebee, QuickBooks
 
 Web development
 - WordPress theme development, support and maintenance, Software development life cycle (SDLC)
@@ -26,17 +28,24 @@ Web development
 
 Project management
 - Technical writing, software documentation, onboarding and training
-- Asana Certified Pro, Agile, Scrum, Lean Six Sigma, Trello, Jira, Confluence, Azure DevOps, Microsoft Project
+- Asana Certified Pro/Services Partner, Agile, Scrum, Lean Six Sigma, Trello, Jira, Confluence, Azure DevOps, Microsoft Project
 
-Cloud computing 
+Technical 
 - AWS: IAM, AWS Organizations, CloudTrail, CloudWatch, Lightsail, VPC, Route 53, ECS & Fargate
 - Azure: Azure Active Directory (custom domains, AD Connect, conditional access, Privileged Identity Management)
 - Experience with CirceCI, GitHub, SQL, Redash, Linux command line, Terraform, CloudFormation, Docker
+- Security: Good understanding of governance, risk, compliance (GRC), auditing, security awareness, NIST Cybersecurity Framework (CSF)
 - Basic knowledge of Python, Bash scripting, SSH, networking fundamentals
 
 
-## [Certificates & Training]
+## [Education]
+Western Governors University,	B.S., Business Administration - Information Technology Management (expected Dec 2022)
+- Completed coursework: Accounting, Organizational Behavior, Critical Thinking & Logic, Principles of Management, Spreadsheets, IT Management Essentials, Operations & Supply Chain Management, Information Systems Management 
 
+
+## [Certifications & Training]
+
+- Certified Associate in Project Management (CAPM), *in progress*
 - Microsoft Certified Identity and Access Administrator, 2022
 - Microsoft Certified Azure Fundamentals, 2021
 - AWS Solutions Architect Associate, 2021
@@ -45,8 +54,6 @@ Cloud computing
 
 ### Relevant Coursework
 
-- Currently enrolled/studying: 
-  -  [Google Project Management](https://www.coursera.org/professional-certificates/google-project-management)
 - Cloud Native Foundations program - [Udacity](https://www.udacity.com/scholarships/suse-cloud-native-foundations-scholarship)
 - Terraform for AWS - Beginner to Pro - [Warp 9 Training](https://warp-9.com/courses)
 - Ultimate Docker Fast-Track Beginner to Advanced - [Warp 9 Training](https://warp-9.com/courses)
@@ -80,8 +87,8 @@ Azure
 
 ## [Volunteer Work]
 
-- Page moderator - Black Cloud Geeks, 2021 - Present
-- WordPress Expert - 48in48.org, 2019 - Present
+- WordPress Developer / Project Manager - 48in48.org, 2019 - Present
+- Page moderator - Black Cloud Geeks, 2021 - 2022
 - Registration Volunteer - WordCamp, 2017 - 2019
 - Digital Marketing/WordPress Design - Taproot Foundation, 2018 - 2019
 - Tech Tutor - Bloomfield Public Library, 2017
