@@ -40,12 +40,13 @@ Technical
 
 ## [Education]
 Western Governors University,	B.S., Business Administration - Information Technology Management (expected Dec 2022)
-- Completed coursework: Accounting, Organizational Behavior, Critical Thinking & Logic, Principles of Management, Spreadsheets, IT Management Essentials, Operations & Supply Chain Management, Information Systems Management 
+- Completed coursework: Accounting, Organizational Behavior, Critical Thinking & Logic, Principles of Management, Spreadsheets, IT Management Essentials, Operations & Supply Chain Management, Information Systems Management, Emotional & Cultural Intelligence, Innovative & Strategic Thinking
 
 
 ## [Certifications & Training]
 
 - Certified Associate in Project Management (CAPM), *in progress*
+- Certified ScrumMaster® (CSM®), 2022
 - Microsoft Certified Identity and Access Administrator, 2022
 - Microsoft Certified Azure Fundamentals, 2021
 - AWS Solutions Architect Associate, 2021
