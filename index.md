@@ -1,4 +1,4 @@
-*Self-taught techie certified in AWS, Microsoft Azure, Security+. Background in administrative, customer support, and project management. As an Implementation Consultant, I helped online service providers set up and automate project management and client management software. I've led software implementation and web development projects from discovery to launch to post support & training.*
+*Self-taught techie certified in AWS, Microsoft Azure, Security+, CSM, and CAPM. Background in administrative, customer support, and project management. As an Implementation Consultant, I helped online service providers set up and automate project management and client management software. I've led software implementation and web development projects from discovery to launch to post-support & training.*
 
 Collaborator • Emphathetic • Customer-focused • Planner & Organizer
 
@@ -28,7 +28,7 @@ Web development
 
 Project management
 - Technical writing, software documentation, onboarding and training
-- Asana Certified Pro/Services Partner, Agile, Scrum, Lean Six Sigma, Trello, Jira, Confluence, Azure DevOps, Microsoft Project
+- Asana Certified Pro/Services Partner, Agile, Scrum, Lean Six Sigma, Trello, Smartsheet, Jira, Confluence, Azure DevOps, Microsoft Project
 
 Technical 
 - AWS: IAM, AWS Organizations, CloudTrail, CloudWatch, Lightsail, VPC, Route 53, ECS & Fargate
@@ -39,19 +39,19 @@ Technical
 
 
 ## [Education]
-Western Governors University,	B.S., Business Administration - Information Technology Management (expected Dec 2022)
-- Completed coursework: Accounting, Organizational Behavior, Critical Thinking & Logic, Principles of Management, Spreadsheets, IT Management Essentials, Operations & Supply Chain Management, Information Systems Management, Emotional & Cultural Intelligence, Innovative & Strategic Thinking
+Western Governors University,	B.S., Business Administration - Information Technology Management, Graduated Jan 2023
+- Courses included Change Management, Data Management, Information Systems Management, HR Management, Financial and Managerial Accounting, Quantitative Analysis For Business
 
 
 ## [Certifications & Training]
 
-- Certified Associate in Project Management (CAPM), *in progress*
+- Certified Associate in Project Management (CAPM), 2023
 - Certified ScrumMaster® (CSM®), 2022
-- Microsoft Certified Identity and Access Administrator, 2022
+- Microsoft Certified Identity and Access Administrator, 2022-2024
 - Microsoft Certified Azure Fundamentals, 2021
 - AWS Solutions Architect Associate, 2021
 - AWS Certified Cloud Practitioner, 2021
-- CompTIA Security+, 2019
+- CompTIA Security+, 2019-2025
 
 ### Relevant Coursework
 
@@ -89,7 +89,6 @@ Azure
 ## [Volunteer Work]
 
 - WordPress Developer / Project Manager - 48in48.org, 2019 - Present
-- Page moderator - Black Cloud Geeks, 2021 - 2022
 - Registration Volunteer - WordCamp, 2017 - 2019
 - Digital Marketing/WordPress Design - Taproot Foundation, 2018 - 2019
 - Tech Tutor - Bloomfield Public Library, 2017
@@ -104,4 +103,4 @@ Azure
 * "...an excellent teacher. I highly recommend her to guide you..."
 * "...unfailingly polite to the librarians she worked with and the students she was tutoring. Most notable was her patience with sometimes difficult patrons who could be frustrated in learning new computer skills." 
 
-[See how I can add value to your team](https://secure.plum.io/p/hk14dNZ_esxZzpK9gEMvXg), [download PDF](https://docs.google.com/document/d/1tBZ8X7tb-ApQqWWxV3zdDfPBW2BqRVGasmktyJaektc), get in touch with me on [LinkedIn](https://www.linkedin.com/in/msguery).
+[See how I can add value to your team](https://secure.plum.io/p/hk14dNZ_esxZzpK9gEMvXg), [view resume](https://docs.google.com/document/d/1tBZ8X7tb-ApQqWWxV3zdDfPBW2BqRVGasmktyJaektc), and get in touch with me on [LinkedIn](https://www.linkedin.com/in/msguery).
