@@ -2,6 +2,17 @@
 
 Collaborator • Emphathetic • Customer-focused • Planner & Organizer
 
+## [Info]
+
+**Reviews**
+
+* "...Marjy completed the job in a timely and professional manner. Marjy helped me by saving time and money."
+* "...found the experience very easygoing. She is easy to work with."
+* "...an excellent teacher. I highly recommend her to guide you..."
+* "...unfailingly polite to the librarians she worked with and the students she was tutoring. Most notable was her patience with sometimes difficult patrons who could be frustrated in learning new computer skills." 
+
+[See how I can add value to your team](https://secure.plum.io/p/hk14dNZ_esxZzpK9gEMvXg), [watch YouTube videos](https://www.youtube.com/@marjyg/videos), [view resume](https://docs.google.com/document/d/1tBZ8X7tb-ApQqWWxV3zdDfPBW2BqRVGasmktyJaektc), get in touch with me on [LinkedIn](https://www.linkedin.com/in/msguery). 
+
 ## [Qualifications]
 
 - Quick learner and thrives in a fast-paced environment
@@ -82,7 +93,6 @@ Azure
 - Created a [DevOps Roadmap](https://mguery.github.io/devops-notes/) for aspiring cloud engineers
 - Software documentation (CRM) - [HoneyBook video and post](https://msguery.net/honeybook-workflows), [Dubsado video and text tutorial](https://msguery.net/dubsado-walkthrough)
 - Tech-related blog posts/videos - [Passing CompTIA Security+](https://msguery.net/passing-the-comptia-securityplus-exam), [Become AWS Certified in 2021](https://msguery.net/aws-certified), [Cloud with Marjy - YouTube playlist](https://www.youtube.com/playlist?list=PLppGQhQtHyJYqflcAsLakbCGxla-64s1W)
-- Business tips and tutorials for online service providers - [YouTube](https://www.youtube.com/channel/UCH45NDaOXaxnGw5RBBgYQOg/videos), [Blog](https://msguery.net/blog)
 - Previous projects - [Web Dev Resources](https://mguery.github.io/web-dev), [WordPress starter theme](https://github.com/mguery/base-theme), [Bootstrap 4 to WordPress Resume theme](https://github.com/mguery/bs4-wp-resume)
 
 
@@ -92,15 +102,3 @@ Azure
 - Registration Volunteer - WordCamp, 2017 - 2019
 - Digital Marketing/WordPress Design - Taproot Foundation, 2018 - 2019
 - Tech Tutor - Bloomfield Public Library, 2017
-
-
-## [Info]
-
-**Reviews**
-
-* "...Marjy completed the job in a timely and professional manner. Marjy helped me by saving time and money."
-* "...found the experience very easygoing. She is easy to work with."
-* "...an excellent teacher. I highly recommend her to guide you..."
-* "...unfailingly polite to the librarians she worked with and the students she was tutoring. Most notable was her patience with sometimes difficult patrons who could be frustrated in learning new computer skills." 
-
-[See how I can add value to your team](https://secure.plum.io/p/hk14dNZ_esxZzpK9gEMvXg), [view resume](https://docs.google.com/document/d/1tBZ8X7tb-ApQqWWxV3zdDfPBW2BqRVGasmktyJaektc), and get in touch with me on [LinkedIn](https://www.linkedin.com/in/msguery).
